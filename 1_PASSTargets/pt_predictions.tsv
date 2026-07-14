@@ -1,0 +1,106 @@
+Name	Activity Score	Propensity Score	Type of Interaction	ChEMBL ID	
+Glutathione reductase, mitochondrial	0.5345	0.0770	D	CHEMBL2755	
+Solute carrier family 22 member 2	0.5242	0.3046	I	CHEMBL1743122	
+D(1A) dopamine receptor	0.4830	-1	D	CHEMBL2056	
+NAD-dependent protein deacetylase sirtuin-1	0.4695	0.4754	I	CHEMBL4506	
+Glycine receptor subunit alpha-1	0.3681	0.3463	I	CHEMBL5845	
+cAMP-dependent protein kinase catalytic subunit alpha	0.3238	-1	D	CHEMBL4101	
+Cathepsin L2	0.3152	-1	D	CHEMBL3272	
+Bile salt export pump	0.2922	0.3200	I	CHEMBL6020	
+Sentrin-specific protease 1	0.2798	-1	D	CHEMBL1909484	
+DNA topoisomerase 2-alpha	0.2638	-1	I	CHEMBL1806	
+Receptor-type tyrosine-protein phosphatase C	0.2558	-1	D	CHEMBL3243	
+DNA topoisomerase 1	0.2427	0.1162	D	CHEMBL1781	
+Serine/threonine-protein phosphatase 5	0.2341	0.2004	D	CHEMBL3425389	
+Solute carrier family 22 member 1	0.2270	0.2288	I	CHEMBL5685	
+Acyl-protein thioesterase 1	0.2199	0.0697	D	CHEMBL1681631	
+Kappa-type opioid receptor	0.2131	0.2607	I	CHEMBL237	
+Sterol O-acyltransferase 1	0.1935	0.1197	D	CHEMBL2782	
+Carbonic anhydrase 3	0.1871	-1	D	CHEMBL2885	
+DNA topoisomerase 2-beta	0.1832	-1	D	CHEMBL3396	
+Cyclic GMP-AMP synthase	0.1679	-1	D	CHEMBL4105728	
+Peptidyl-prolyl cis-trans isomerase D	0.1674	-1	D	CHEMBL1697657	
+Tumor necrosis factor	0.1438	-1	D	CHEMBL1825	
+Caspase-8	0.1402	0.0553	D	CHEMBL3776	
+Multidrug and toxin extrusion protein 2	0.1397	0.0364	I	CHEMBL1743127	
+D(2) dopamine receptor	0.1340	-1	D	CHEMBL217	
+Proteinase-activated receptor 1	0.1169	-1	I	CHEMBL3974	
+Kappa-type opioid receptor	0.1097	0.2607	D	CHEMBL237	
+Protein kinase C delta type	0.1079	0.0685	D	CHEMBL2996	
+Catenin beta-1	0.1043	-1	D	CHEMBL5866	
+Thromboxane-A synthase	0.1032	-1	D	CHEMBL1835	
+Transcription factor p65	0.0966	-1	I	CHEMBL5533	
+5'-nucleotidase	0.0897	-1	D	CHEMBL5957	
+DNA (cytosine-5)-methyltransferase 1	0.0879	-1	I	CHEMBL1993	
+G-protein coupled bile acid receptor 1	0.0863	-1	D	CHEMBL5409	
+Serine/threonine-protein kinase 25	0.0854	-1	D	CHEMBL5552	
+Protein kinase C gamma type	0.0850	-1	D	CHEMBL2938	
+Bis(5'-adenosyl)-triphosphatase	0.0849	-1	D	CHEMBL1795151	
+Nuclear receptor subfamily 4 group A member 2	0.0841	-1	D	CHEMBL5002	
+Sphingomyelin phosphodiesterase	0.0808	-1	I	CHEMBL2760	
+Cyclin-dependent kinase 19	0.0807	-1	D	CHEMBL6002	
+Protein kinase C alpha type	0.0798	-1	D	CHEMBL299	
+Pyruvate kinase PKM	0.0789	-1	D	CHEMBL1075189	
+Interleukin-2	0.0778	-1	D	CHEMBL5880	
+Pancreatic triacylglycerol lipase	0.0760	-1	D	CHEMBL1812	
+Myosin light chain kinase, smooth muscle	0.0759	-1	D	CHEMBL2428	
+Peptidyl-prolyl cis-trans isomerase A	0.0709	0.0173	I	CHEMBL1949	
+AMPK alpha2/beta1/gamma1	0.0687	-1	I	CHEMBL3038455	
+Bcl-2-related protein A1	0.0682	-1	D	CHEMBL6044	
+Splicing factor 3B subunit 3	0.0661	0.2573	I	CHEMBL1250378	
+Protein kinase C epsilon type	0.0631	-1	D	CHEMBL3582	
+NAD-dependent protein deacylase sirtuin-6	0.0630	-1	D	CHEMBL2163182	
+Beta-secretase 1	0.0612	-1	D	CHEMBL4822	
+Protein kinase C delta type	0.0611	0.0685	I	CHEMBL2996	
+C-X-C chemokine receptor type 1	0.0573	-1	D	CHEMBL4029	
+Androgen receptor	0.0571	-1	D	CHEMBL1871	
+Acetylcholinesterase	0.0566	-1	D	CHEMBL220	
+CDGSH iron-sulfur domain-containing protein 1	0.0533	-1	D	CHEMBL1795168	
+Solute carrier family 22 member 12	0.0516	-1	D	CHEMBL6120	
+Nuclear receptor ROR-gamma	0.0511	-1	I	CHEMBL1741186	
+Sulfonylurea receptor 2, Kir6.2	0.0488	-1	I	CHEMBL2095198	
+DNA polymerase beta	0.0458	-1	D	CHEMBL2392	
+Acetyl-CoA carboxylase 1	0.0450	0.0068	D	CHEMBL3351	
+Acetyl-CoA carboxylase 2	0.0433	-1	D	CHEMBL4829	
+Prostacyclin receptor	0.0377	-1	D	CHEMBL1995	
+Lysosomal alpha-glucosidase	0.0376	-1	D	CHEMBL2608	
+Protein kinase C epsilon type	0.0372	-1	I	CHEMBL3582	
+Stimulator of interferon genes protein	0.0369	-1	D	CHEMBL4523377	
+3-hydroxy-3-methylglutaryl-coenzyme A reductase	0.0365	0.0359	D	CHEMBL402	
+Eukaryotic initiation factor 4A-I	0.0365	-1	I	CHEMBL2052028	
+Heat shock protein HSP 90-alpha	0.0359	-1	D	CHEMBL3880	
+Nuclear receptor subfamily 2 group C member 2/TGF-beta-activated kinase 1 and MAP3K7-binding protein 1	0.0333	0.0336	I	CHEMBL3885612	
+Caspase-1	0.0329	0.0378	I	CHEMBL4801	
+Protein kinase C alpha type	0.0328	-1	I	CHEMBL299	
+Sodium channel protein type 1 subunit alpha	0.0318	-1	I	CHEMBL1845	
+Catechol O-methyltransferase	0.0314	-1	D	CHEMBL2023	
+Endothelin receptor type B	0.0277	-1	D	CHEMBL1785	
+DNA (cytosine-5)-methyltransferase 3B	0.0277	-1	I	CHEMBL6095	
+Transcription factor p65	0.0260	-1	D	CHEMBL5533	
+Monocarboxylate transporter 1	0.0258	-1	D	CHEMBL4360	
+Tyrosinase	0.0244	-1	D	CHEMBL1973	
+Glucocorticoid receptor	0.0244	0.0091	I	CHEMBL2034	
+Dual specificity mitogen-activated protein kinase kinase 4	0.0226	-1	D	CHEMBL2897	
+Xaa-Pro dipeptidase	0.0223	-1	D	CHEMBL4185	
+Pyruvate kinase PKM	0.0211	-1	I	CHEMBL1075189	
+Sodium/glucose cotransporter 2	0.0210	-1	D	CHEMBL3884	
+Sex hormone-binding globulin	0.0207	0.0013	D	CHEMBL3305	
+Adenosine kinase	0.0193	-1	I	CHEMBL3589	
+Probable global transcription activator SNF2L2	0.0192	-1	D	CHEMBL2362979	
+Progesterone receptor	0.0184	-1	D	CHEMBL208	
+Sterol O-acyltransferase 2	0.0184	0.1227	I	CHEMBL4465	
+Alpha-amylase 1A	0.0183	-1	D	CHEMBL2478	
+Potassium voltage-gated channel subfamily A member 3	0.0169	-1	I	CHEMBL4633	
+Phosphatidylinositol 3,4,5-trisphosphate 5-phosphatase 2	0.0153	-1	D	CHEMBL2331064	
+Nuclear factor erythroid 2-related factor 2	0.0137	-1	I	CHEMBL1075094	
+Delta-type opioid receptor	0.0135	0.0900	I	CHEMBL236	
+Glucocorticoid receptor	0.0123	0.0091	D	CHEMBL2034	
+Galectin-8	0.0119	-1	D	CHEMBL5475	
+Sterol O-acyltransferase 1	0.0100	0.1197	I	CHEMBL2782	
+Vitamin D3 receptor	0.0061	-1	D	CHEMBL1977	
+Proteasome component C5	0.0045	-1	D	CHEMBL4208	
+Vitamin D3 receptor	0.0040	-1	I	CHEMBL1977	
+NAD-dependent malic enzyme, mitochondrial	0.0031	-1	D	CHEMBL5291602	
+Stimulator of interferon genes protein	0.0031	-1	I	CHEMBL4523377_UNDEFINED MUTATION	
+Farnesyl pyrophosphate synthase	0.0023	-1	I	CHEMBL1782	
+Sterol O-acyltransferase 2	0.0009	0.1227	D	CHEMBL4465

@@ -1,0 +1,5 @@
+﻿Rank_Layer,Maximum_Rank,Target_Count,Highest_Score,Lowest_Score,Mean_Score,Median_Score,Interpretation
+Top10,10,10,2.67584,1.65222,2.129825,2.12461,Descriptive rank layer only; not an official NetInfer threshold
+Top20,20,20,2.67584,1.26933,1.80269,1.646335,Descriptive rank layer only; not an official NetInfer threshold
+Top30,30,30,2.67584,0.996497,1.591471,1.475365,Descriptive rank layer only; not an official NetInfer threshold
+Top50,50,50,2.67584,0.752609,1.299946,1.18163,Descriptive rank layer only; not an official NetInfer threshold

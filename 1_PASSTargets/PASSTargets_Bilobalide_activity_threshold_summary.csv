@@ -1,0 +1,9 @@
+﻿Activity_Threshold,Threshold_Rule,Raw_Record_Count,D_Record_Count,I_Record_Count,Unique_ChEMBL_Target_Count,Expanded_Unique_Gene_Count,Official_PASS_Output_Rule,Used_For_Prediction_Inclusion,Interpretation
+>0,platform_returned_score_gt_0,105,69,36,94,98,true,true,All platform-returned predictions retained
+>=0.01,project_descriptive_sensitivity_layer,98,65,33,90,94,false,false,Descriptive only; not an official PASS cutoff and not used to exclude targets
+>=0.05,project_descriptive_sensitivity_layer,59,42,17,57,59,false,false,Descriptive only; not an official PASS cutoff and not used to exclude targets
+>=0.10,project_descriptive_sensitivity_layer,30,21,9,29,29,false,false,Descriptive only; not an official PASS cutoff and not used to exclude targets
+>=0.20,project_descriptive_sensitivity_layer,16,9,7,16,16,false,false,Descriptive only; not an official PASS cutoff and not used to exclude targets
+>=0.30,project_descriptive_sensitivity_layer,7,4,3,7,7,false,false,Descriptive only; not an official PASS cutoff and not used to exclude targets
+>=0.40,project_descriptive_sensitivity_layer,4,2,2,4,4,false,false,Descriptive only; not an official PASS cutoff and not used to exclude targets
+>=0.50,project_descriptive_sensitivity_layer,2,1,1,2,2,false,false,Descriptive only; not an official PASS cutoff and not used to exclude targets

@@ -1,0 +1,2 @@
+﻿Phenotype_MIM_ID,Phenotype_Title,Candidate_Gene_Symbol,Gene_MIM_ID,Entrez_Gene_ID,OMIM_Entry_Prefix,Target_Eligible,Recommended_Use,Reason,Evidence_URL
+606799,"STROKE, SUSCEPTIBILITY TO, 1",PDE4D,600129,5144,%,false,Audit_only,%前缀表示该表型的分子基础尚未明确；PDE4D仅保留为历史候选，不进入主集或扩展集,https://www.ncbi.nlm.nih.gov/gtr/all/tests/?term=606799%5Bmim%5D

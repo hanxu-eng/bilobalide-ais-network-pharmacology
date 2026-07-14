@@ -1,0 +1,525 @@
+﻿Search_Rank,MIM_Raw,Gene_MIM_ID,Entrez_Gene_ID,Title,Title_Symbol_Candidate,Gene_Phenotype_Link_Status,Evidence_Layer,Gene_Target_Status,Decision_Reason
+1,*107741,107741,348,APOLIPOPROTEIN E; APOE,APOE,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+2,*612839,612839,54790,TET METHYLCYTOSINE DIOXYGENASE 2; TET2,TET2,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+7,*600308,600308,361,AQUAPORIN 4; AQP4,AQP4,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+12,*106180,106180,1636,ANGIOTENSIN I-CONVERTING ENZYME; ACE,ACE,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+15,*612276,612276,79693,YRDC DOMAIN-CONTAINING PROTEIN; YRDC,YRDC,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+25,*603350,603350,4939,"2-PRIME,5-PRIME-OLIGOADENYLATE SYNTHETASE 2; OAS2",OAS2,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+27,*607575,607575,51816,ADENOSINE DEAMINASE 2; ADA2,ADA2,verified_linked_gene,Extended_Etiologic,Extended_target_gene,保留为预设AIS证据记录；是否可产出靶点由gene–phenotype链路字段决定
+28,*600276,600276,4854,NOTCH RECEPTOR 3; NOTCH3,NOTCH3,verified_linked_gene,Primary_Adult_Monogenic,Primary_target_gene,保留为预设AIS证据记录；是否可产出靶点由gene–phenotype链路字段决定
+29,*163729,163729,4846,NITRIC OXIDE SYNTHASE 3; NOS3,NOS3,verified_linked_gene,Extended_Etiologic,Extended_target_gene,保留为预设AIS证据记录；是否可产出靶点由gene–phenotype链路字段决定
+30,*133170,133170,2056,ERYTHROPOIETIN; EPO,EPO,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+34,*176930,176930,2147,COAGULATION FACTOR II; F2,F2,verified_linked_gene,UltraStrict_Direct_AIS,Primary_target_gene,保留为预设AIS证据记录；是否可产出靶点由gene–phenotype链路字段决定
+35,*102620,102620,59,"ACTIN, ALPHA-2, SMOOTH MUSCLE, AORTA; ACTA2",ACTA2,verified_linked_gene,Extended_Etiologic,Extended_target_gene,保留为预设AIS证据记录；是否可产出靶点由gene–phenotype链路字段决定
+41,*600300,600300,6506,"SOLUTE CARRIER FAMILY 1 (GLIAL HIGH AFFINITY GLUTAMATE TRANSPORTER), MEMBER 2; SLC1A2",SLC1A2,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+76,*151385,151385,861,RUNT-RELATED TRANSCRIPTION FACTOR 1; RUNX1,RUNX1,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+77,*102578,102578,5371,"ACUTE PROMYELOCYTIC LEUKEMIA, INDUCER OF; PML",PML,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+78,*102582,102582,6774,SIGNAL TRANSDUCER AND ACTIVATOR OF TRANSCRIPTION 3; STAT3,STAT3,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+79,*120520,120520,4311,MEMBRANE METALLOENDOPEPTIDASE; MME,MME,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+80,*180240,180240,5914,"RETINOIC ACID RECEPTOR, ALPHA; RARA",RARA,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+81,*186855,186855,6887,T-CELL ACUTE LYMPHOCYTIC LEUKEMIA 2; TAL2,TAL2,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+82,*187040,187040,6886,T-CELL ACUTE LYMPHOCYTIC LEUKEMIA 1; TAL1,TAL1,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+83,*600617,600617,6770,STEROIDOGENIC ACUTE REGULATORY PROTEIN; STAR,STAR,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+84,*133435,133435,862,"RUNT-RELATED TRANSCRIPTION FACTOR 1, TRANSLOCATED TO, 1; RUNX1T1",RUNX1T1,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+85,*606602,606602,79870,"BRAIN AND ACUTE LEUKEMIA GENE, CYTOPLASMIC; BAALC",BAALC,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+86,*608450,608450,338436,B-CELL ACUTE LYMPHOBLASTIC LEUKEMIA-EXPRESSED GENE; BLACE,BLACE,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+87,*107730,107730,338,APOLIPOPROTEIN B; APOB,APOB,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+88,*104760,104760,351,AMYLOID BETA A4 PRECURSOR PROTEIN; APP,APP,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+89,*120130,120130,1282,"COLLAGEN, TYPE IV, ALPHA-1; COL4A1",COL4A1,verified_linked_gene,Extended_Etiologic,Extended_target_gene,保留为预设AIS证据记录；是否可产出靶点由gene–phenotype链路字段决定
+92,*590050,590050,4567,"TRANSFER RNA, MITOCHONDRIAL, LEUCINE, 1; MTTL1",MTTL1,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+93,*147796,147796,3717,JANUS KINASE 2; JAK2,JAK2,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+96,*120180,120180,1281,"COLLAGEN, TYPE III, ALPHA-1; COL3A1",COL3A1,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+97,*191160,191160,7124,TUMOR NECROSIS FACTOR; TNF,TNF,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+98,*138249,138249,2902,"GLUTAMATE RECEPTOR, IONOTROPIC, N-METHYL-D-ASPARTATE, SUBUNIT 1; GRIN1",GRIN1,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+100,*188040,188040,7056,THROMBOMODULIN; THBD,THBD,verified_linked_gene,Extended_Etiologic,Extended_target_gene,保留为预设AIS证据记录；是否可产出靶点由gene–phenotype链路字段决定
+102,*192240,192240,7422,VASCULAR ENDOTHELIAL GROWTH FACTOR A; VEGFA,VEGFA,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+105,*107680,107680,335,APOLIPOPROTEIN A-I; APOA1,APOA1,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+106,*600129,600129,5144,PHOSPHODIESTERASE 4D; PDE4D,PDE4D,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+109,*134830,134830,2244,"FIBRINOGEN, B BETA POLYPEPTIDE; FGB",FGB,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+110,*609708,609708,4023,LIPOPROTEIN LIPASE; LPL,LPL,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+111,*600509,600509,6833,"ATP-BINDING CASSETTE, SUBFAMILY C, MEMBER 8; ABCC8",ABCC8,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+112,*606672,606672,2811,"GLYCOPROTEIN Ib, PLATELET, ALPHA POLYPEPTIDE; GP1BA",GP1BA,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+114,*607093,607093,4524,"5,10-METHYLENETETRAHYDROFOLATE REDUCTASE; MTHFR",MTHFR,verified_linked_gene,Extended_Etiologic,Extended_target_gene,保留为预设AIS证据记录；是否可产出靶点由gene–phenotype链路字段决定
+121,*132811,132811,2053,"EPOXIDE HYDROLASE 2, CYTOSOLIC; EPHX2",EPHX2,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+122,*604134,604134,11093,"A DISINTEGRIN-LIKE AND METALLOPROTEASE WITH THROMBOSPONDIN TYPE 1 MOTIF, 13; ADAMTS13",ADAMTS13,verified_linked_gene,Extended_Etiologic,Extended_target_gene,保留为预设AIS证据记录；是否可产出靶点由gene–phenotype链路字段决定
+123,*138252,138252,2904,"GLUTAMATE RECEPTOR, IONOTROPIC, N-METHYL-D-ASPARTATE, SUBUNIT 2B; GRIN2B",GRIN2B,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+124,*602887,602887,1742,DISCS LARGE MAGUK SCAFFOLD PROTEIN 4; DLG4,DLG4,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+126,*176895,176895,8858,PROTEIN Z; PROZ,PROZ,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+127,*192225,192225,7412,VASCULAR CELL ADHESION MOLECULE 1; VCAM1,VCAM1,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+129,*601693,601693,7351,UNCOUPLING PROTEIN 2; UCP2,UCP2,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+130,*612309,612309,2153,COAGULATION FACTOR V; F5,F5,verified_linked_gene,UltraStrict_Direct_AIS;Extended_Etiologic,Primary_target_gene,保留为预设AIS证据记录；是否可产出靶点由gene–phenotype链路字段决定
+133,*173610,173610,6403,SELECTIN P; SELP,SELP,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+134,*613381,613381,875,CYSTATHIONINE BETA-SYNTHASE; CBS,CBS,verified_linked_gene,Extended_Etiologic,Extended_target_gene,保留为预设AIS证据记录；是否可产出靶点由gene–phenotype链路字段决定
+135,*613768,613768,57674,RING FINGER PROTEIN 213; RNF213,RNF213,verified_linked_gene,Extended_Etiologic,Extended_target_gene,保留为预设AIS证据记录；是否可产出靶点由gene–phenotype链路字段决定
+137,*139250,139250,2688,GROWTH HORMONE 1; GH1,GH1,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+138,*163731,163731,4842,NITRIC OXIDE SYNTHASE 1; NOS1,NOS1,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+139,*123260,123260,1401,C-REACTIVE PROTEIN; CRP,CRP,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+142,*606945,606945,3949,LOW DENSITY LIPOPROTEIN RECEPTOR; LDLR,LDLR,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+143,*612112,612112,79626,TUMOR NECROSIS FACTOR-ALPHA-INDUCED PROTEIN 8-LIKE 2; TNFAIP8L2,TNFAIP8L2,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+145,*140580,140580,3297,HEAT-SHOCK TRANSCRIPTION FACTOR 1; HSF1,HSF1,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+146,*173490,173490,5156,"PLATELET-DERIVED GROWTH FACTOR RECEPTOR, ALPHA; PDGFRA",PDGFRA,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+147,*600295,600295,4879,NATRIURETIC PEPTIDE PRECURSOR B; NPPB,NPPB,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+148,*608452,608452,56034,PLATELET-DERIVED GROWTH FACTOR C; PDGFC,PDGFC,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+150,*603030,603030,7099,TOLL-LIKE RECEPTOR 4; TLR4,TLR4,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+154,*600960,600960,6418,SET NUCLEAR PROTOONCOGENE; SET,SET,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+156,*603348,603348,3091,"HYPOXIA-INDUCIBLE FACTOR 1, ALPHA SUBUNIT; HIF1A",HIF1A,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+157,*138253,138253,2903,"GLUTAMATE RECEPTOR, IONOTROPIC, N-METHYL-D-ASPARTATE, SUBUNIT 2A; GRIN2A",GRIN2A,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+159,*120361,120361,4318,MATRIX METALLOPROTEINASE 9; MMP9,MMP9,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+160,*602194,602194,5654,HTRA SERINE PEPTIDASE 1; HTRA1,HTRA1,verified_linked_gene,Primary_Adult_Monogenic,Primary_target_gene,保留为预设AIS证据记录；是否可产出靶点由gene–phenotype链路字段决定
+161,*191190,191190,7132,"TUMOR NECROSIS FACTOR RECEPTOR SUPERFAMILY, MEMBER 1A; TNFRSF1A",TNFRSF1A,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+164,*612456,612456,81575,APOLIPOPROTEIN L DOMAIN-CONTAINING 1; APOLD1,APOLD1,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+165,*106165,106165,185,"ANGIOTENSIN II RECEPTOR, TYPE 1; AGTR1",AGTR1,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+167,*305900,305900,2539,GLUCOSE-6-PHOSPHATE DEHYDROGENASE; G6PD,G6PD,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+168,*604775,604775,8989,"TRANSIENT RECEPTOR POTENTIAL CATION CHANNEL, SUBFAMILY A, MEMBER 1; TRPA1",TRPA1,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+169,*176975,176975,5581,"PROTEIN KINASE C, EPSILON; PRKCE",PRKCE,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+170,*601746,601746,10525,HYPOXIA UP-REGULATED 1; HYOU1,HYOU1,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+173,*186940,186940,920,CD4 ANTIGEN; CD4,CD4,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+174,*191306,191306,3791,KINASE INSERT DOMAIN RECEPTOR; KDR,KDR,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+177,*602544,602544,5071,PARKIN RBR E3 UBIQUITIN PROTEIN LIGASE; PRKN,PRKN,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+183,*118930,118930,7857,SECRETOGRANIN II; SCG2,SCG2,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+184,*100650,100650,217,ALDEHYDE DEHYDROGENASE 2 FAMILY MEMBER; ALDH2,ALDH2,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+185,*120700,120700,718,COMPLEMENT COMPONENT 3; C3,C3,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+187,*190198,190198,4851,NOTCH RECEPTOR 1; NOTCH1,NOTCH1,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+188,*164011,164011,4790,"NUCLEAR FACTOR KAPPA-B, SUBUNIT 1; NFKB1",NFKB1,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+189,*600831,600831,1612,DEATH-ASSOCIATED PROTEIN KINASE 1; DAPK1,DAPK1,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+192,*621451,621451,85028,SMALL NUCLEOLAR RNA HOST GENE 12; SNHG12,SNHG12,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+194,*176880,176880,5627,PROTEIN S; PROS1,PROS1,verified_linked_gene,Extended_Etiologic,Extended_target_gene,保留为预设AIS证据记录；是否可产出靶点由gene–phenotype链路字段决定
+197,*133430,133430,2099,ESTROGEN RECEPTOR 1; ESR1,ESR1,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+198,*607918,607918,55829,SELENOPROTEIN S; SELENOS,SELENOS,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+199,*605565,605565,56729,RESISTIN; RETN,RETN,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+200,*134370,134370,3075,COMPLEMENT FACTOR H; CFH,CFH,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+201,*124020,124020,1557,"CYTOCHROME P450, SUBFAMILY IIC, POLYPEPTIDE 19; CYP2C19",CYP2C19,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+203,*176804,176804,5732,"PROSTAGLANDIN E RECEPTOR 2, EP2 SUBTYPE; PTGER2",PTGER2,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+204,*602866,602866,41,"ACID-SENSING ION CHANNEL, SUBUNIT 1; ASIC1",ASIC1,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+205,*603219,603219,3776,"POTASSIUM CHANNEL, SUBFAMILY K, MEMBER 2; KCNK2",KCNK2,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+206,*102776,102776,135,ADENOSINE A2A RECEPTOR; ADORA2A,ADORA2A,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+207,*147780,147780,3565,INTERLEUKIN 4; IL4,IL4,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+208,*151430,151430,596,BCL2 APOPTOSIS REGULATOR; BCL2,BCL2,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+210,*153620,153620,4282,MACROPHAGE MIGRATION INHIBITORY FACTOR; MIF,MIF,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+211,*141250,141250,3162,HEME OXYGENASE 1; HMOX1,HMOX1,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+212,*601690,601690,7941,"PHOSPHOLIPASE A2, GROUP VII; PLA2G7",PLA2G7,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+213,*114078,114078,815,CALCIUM/CALMODULIN-DEPENDENT PROTEIN KINASE II-ALPHA; CAMK2A,CAMK2A,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+214,*606518,606518,26762,HEPATITIS A VIRUS CELLULAR RECEPTOR 1; HAVCR1,HAVCR1,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+217,*164730,164730,207,AKT SERINE/THREONINE KINASE 1; AKT1,AKT1,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+218,*601185,601185,6781,STANNIOCALCIN 1; STC1,STC1,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+225,*184756,184756,6720,STEROL REGULATORY ELEMENT-BINDING TRANSCRIPTION FACTOR 1; SREBF1,SREBF1,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+226,*616495,616495,151188,ADP-RIBOSYLATION FACTOR-LIKE GTPase 6-INTERACTING PROTEIN 6; ARL6IP6,ARL6IP6,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+227,*602055,602055,3638,INSULIN-INDUCED GENE 1; INSIG1,INSIG1,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+228,*191191,191191,7133,"TUMOR NECROSIS FACTOR RECEPTOR SUBFAMILY, MEMBER 1B; TNFRSF1B",TNFRSF1B,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+234,*600958,600958,4607,"MYOSIN-BINDING PROTEIN C, CARDIAC; MYBPC3",MYBPC3,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+235,*611795,611795,406937,MICRO RNA 145; MIR145,MIR145,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+236,*300644,300644,2717,"GALACTOSIDASE, ALPHA; GLA",GLA,verified_linked_gene,Extended_Etiologic,Extended_target_gene,保留为预设AIS证据记录；是否可产出靶点由gene–phenotype链路字段决定
+242,*120360,120360,4313,MATRIX METALLOPROTEINASE 2; MMP2,MMP2,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+243,*188060,188060,7057,THROMBOSPONDIN I; THBS1,THBS1,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+244,*620997,620997,56920,SEMAPHORIN 3G; SEMA3G,SEMA3G,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+247,*590070,590070,4558,"TRANSFER RNA, MITOCHONDRIAL, PHENYLALANINE; MTTF",MTTF,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+248,*107280,107280,12,"SERPIN PEPTIDASE INHIBITOR, CLADE A, MEMBER 3; SERPINA3",SERPINA3,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+249,*609422,609422,407048,MICRO RNA 92A1; MIR92A1,MIR92A1,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+250,*135600,135600,2335,FIBRONECTIN 1; FN1,FN1,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+251,*138140,138140,6513,"SOLUTE CARRIER FAMILY 2 (FACILITATED GLUCOSE TRANSPORTER), MEMBER 1; SLC2A1",SLC2A1,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+252,*607667,607667,29119,"CATENIN, ALPHA-3; CTNNA3",CTNNA3,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+253,*168820,168820,5444,PARAOXONASE 1; PON1,PON1,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+254,*171050,171050,5243,"ATP-BINDING CASSETTE, SUBFAMILY B, MEMBER 1; ABCB1",ABCB1,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+256,*185430,185430,1191,CLUSTERIN; CLU,CLU,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+258,*300386,300386,959,CD40 LIGAND; CD40LG,CD40LG,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+261,*147620,147620,3569,INTERLEUKIN 6; IL6,IL6,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+262,*114610,114610,1268,CANNABINOID RECEPTOR 1; CNR1,CNR1,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+264,*600953,600953,3606,INTERLEUKIN 18; IL18,IL18,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+265,*607102,607102,7490,WT1 TRANSCRIPTION FACTOR; WT1,WT1,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+266,*163730,163730,4843,NITRIC OXIDE SYNTHASE 2; NOS2,NOS2,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+269,*154545,154545,4153,MANNOSE-BINDING LECTIN 2; MBL2,MBL2,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+270,*176385,176385,5069,PAPPALYSIN 1; PAPPA,PAPPA,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+271,*602681,602681,2309,FORKHEAD BOX O3; FOXO3,FOXO3,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+272,*606386,606386,10215,OLIGODENDROCYTE LINEAGE TRANSCRIPTION FACTOR 2; OLIG2,OLIG2,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+277,*120577,120577,22918,"COMPLEMENT COMPONENT 1, q SUBCOMPONENT, RECEPTOR 1; C1QR1",C1QR1,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+278,*600181,600181,3934,LIPOCALIN 2; LCN2,LCN2,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+279,*601439,601439,10060,"ATP-BINDING CASSETTE, SUBFAMILY C, MEMBER 9; ABCC9",ABCC9,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+280,*606425,606425,54583,EGL9 FAMILY HYPOXIA-INDUCIBLE FACTOR 1; EGLN1,EGLN1,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+289,*106150,106150,183,ANGIOTENSINOGEN; AGT,AGT,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+290,*173350,173350,5340,PLASMINOGEN; PLG,PLG,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+291,*600046,600046,19,"ATP-BINDING CASSETTE, SUBFAMILY A, MEMBER 1; ABCA1",ABCA1,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+292,*600516,600516,578,BCL2 ANTAGONIST KILLER 1; BAK1,BAK1,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+293,*610221,610221,84335,"AKT1 SUBSTRATE 1, PROLINE-RICH; AKT1S1",AKT1S1,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+294,*139396,139396,2982,"GUANYLATE CYCLASE, SOLUBLE, ALPHA-1; GUCY1A1",GUCY1A1,verified_linked_gene,Extended_Etiologic,Extended_target_gene,保留为预设AIS证据记录；是否可产出靶点由gene–phenotype链路字段决定
+295,*601593,601593,580,BRCA1-ASSOCIATED RING DOMAIN 1; BARD1,BARD1,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+296,*602620,602620,5641,LEGUMAIN; LGMN,LGMN,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+297,*603700,603700,241,ARACHIDONATE 5-LIPOXYGENASE-ACTIVATING PROTEIN; ALOX5AP,ALOX5AP,verified_linked_gene,UltraStrict_Direct_AIS,Primary_target_gene,保留为预设AIS证据记录；是否可产出靶点由gene–phenotype链路字段决定
+298,*603796,603796,9992,"POTASSIUM CHANNEL, VOLTAGE-GATED, ISK-RELATED SUBFAMILY, MEMBER 2; KCNE2",KCNE2,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+299,*604480,604480,22933,SIRTUIN 2; SIRT2,SIRT2,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+300,*605476,605476,116986,"ARF GTPase-ACTIVATING PROTEIN WITH GTPase DOMAIN, ANKYRIN REPEAT, AND PLECKSTRIN HOMOLOGY DOMAIN 2; AGAP2",AGAP2,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+301,*606882,606882,540,"ATPase, Cu(2+)-TRANSPORTING, BETA POLYPEPTIDE; ATP7B",ATP7B,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+302,*607729,607729,54541,DNA DAMAGE-INDUCIBLE TRANSCRIPT 4; DDIT4,DDIT4,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+303,*607786,607786,255738,"PROPROTEIN CONVERTASE, SUBTILISIN/KEXIN-TYPE, 9; PCSK9",PCSK9,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+307,*590030,590030,4572,"TRANSFER RNA, MITOCHONDRIAL, GLUTAMINE; MTTQ",MTTQ,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+312,*313700,313700,367,ANDROGEN RECEPTOR; AR,AR,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+313,*600636,600636,836,"CASPASE 3, APOPTOSIS-RELATED CYSTEINE PROTEASE; CASP3",CASP3,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+314,*601231,601231,2475,MECHANISTIC TARGET OF RAPAMYCIN; MTOR,MTOR,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+318,*516060,516060,4508,ATP SYNTHASE 6; MTATP6,MTATP6,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+321,*173360,173360,5054,"SERPIN PEPTIDASE INHIBITOR, CLADE E (NEXIN, PLASMINOGEN ACTIVATOR INHIBITOR TYPE 1), MEMBER 1; SERPINE1",SERPINE1,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+325,*162643,162643,7852,"CHEMOKINE, CXC MOTIF, RECEPTOR 4; CXCR4",CXCR4,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+326,*116805,116805,1495,"CATENIN, ALPHA-1; CTNNA1",CTNNA1,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+327,*171833,171833,5295,"PHOSPHATIDYLINOSITOL 3-KINASE, REGULATORY SUBUNIT 1; PIK3R1",PIK3R1,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+328,*173370,173370,5327,"PLASMINOGEN ACTIVATOR, TISSUE; PLAT",PLAT,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+329,*189907,189907,6928,HNF1 HOMEOBOX B; HNF1B,HNF1B,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+330,*603028,603028,7097,TOLL-LIKE RECEPTOR 2; TLR2,TLR2,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+331,*614141,614141,23321,TRIPARTITE MOTIF-CONTAINING PROTEIN 2; TRIM2,TRIM2,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+332,*602006,602006,9261,MITOGEN-ACTIVATED PROTEIN KINASE-ACTIVATED PROTEIN KINASE 2; MAPKAPK2,MAPKAPK2,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+333,*602739,602739,5562,"PROTEIN KINASE, AMP-ACTIVATED, CATALYTIC, ALPHA-1; PRKAA1",PRKAA1,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+334,*603827,603827,10018,BCL2-LIKE 11; BCL2L11,BCL2L11,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+335,*606057,606057,10411,RAP GUANINE NUCLEOTIDE EXCHANGE FACTOR 3; RAPGEF3,RAPGEF3,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+338,*162640,162640,4852,NEUROPEPTIDE Y; NPY,NPY,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+339,*601121,601121,5228,PLACENTAL GROWTH FACTOR; PGF,PGF,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+340,*602897,602897,5602,MITOGEN-ACTIVATED PROTEIN KINASE 10; MAPK10,MAPK10,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+341,*604384,604384,27032,"ATPase, Ca(2+)-TRANSPORTING, TYPE 2C, MEMBER 1; ATP2C1",ATP2C1,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+346,*107776,107776,358,AQUAPORIN 1; AQP1,AQP1,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+347,*113503,113503,624,BRADYKININ RECEPTOR B2; BDKRB2,BDKRB2,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+348,*116880,116880,1514,CATHEPSIN L; CTSL,CTSL,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+349,*176990,176990,6285,"S100 CALCIUM-BINDING PROTEIN, BETA; S100B",S100B,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+350,*600337,600337,623,BRADYKININ RECEPTOR B1; BDKRB1,BDKRB1,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+351,*600835,600835,6387,"CHEMOKINE, CXC MOTIF, LIGAND 12; CXCL12",CXCL12,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+352,*611741,611741,9311,"ACID-SENSING ION CHANNEL, SUBUNIT 3; ASIC3",ASIC3,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+353,*614112,614112,407037,MICRO RNA 320A; MIR320A,MIR320A,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+354,*616506,616506,79625,NEURON-DERIVED NEUROTROPHIC FACTOR; NDNF,NDNF,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+355,*123831,123831,1020,CYCLIN-DEPENDENT KINASE 5; CDK5,CDK5,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+356,*602836,602836,5026,"PURINERGIC RECEPTOR P2X, LIGAND-GATED ION CHANNEL, 5; P2RX5",P2RX5,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+357,*604517,604517,10891,"PEROXISOME PROLIFERATOR-ACTIVATED RECEPTOR-GAMMA, COACTIVATOR 1, ALPHA; PPARGC1A",PPARGC1A,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+358,*605246,605246,719,COMPLEMENT COMPONENT 3a RECEPTOR 1; C3AR1,C3AR1,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+359,*605304,605304,58157,NEUROGLOBIN; NGB,NGB,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+360,*606650,606650,116443,"GLUTAMATE RECEPTOR, IONOTROPIC, N-METHYL-D-ASPARTATE 3A; GRIN3A",GRIN3A,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+361,*620533,620533,645687,LONG INTERGENIC NONCODING RNA 520; LINC00520,LINC00520,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+362,*621026,621026,221687,RING FINGER PROTEIN 182; RNF182,RNF182,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+369,*600946,600946,2690,GROWTH HORMONE RECEPTOR; GHR,GHR,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+370,*613111,613111,5476,CATHEPSIN A; CTSA,CTSA,verified_linked_gene,Extended_Etiologic,Extended_target_gene,保留为预设AIS证据记录；是否可产出靶点由gene–phenotype链路字段决定
+371,*123580,123580,1409,"CRYSTALLIN, ALPHA-A; CRYAA",CRYAA,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+372,*134640,134640,2169,FATTY ACID-BINDING PROTEIN 2; FABP2,FABP2,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+373,*137142,137142,2558,"GAMMA-AMINOBUTYRIC ACID RECEPTOR, ALPHA-5; GABRA5",GABRA5,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+374,*137163,137163,2563,"GAMMA-AMINOBUTYRIC ACID RECEPTOR, DELTA; GABRD",GABRD,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+375,*607952,607952,6538,"SOLUTE CARRIER FAMILY 6 (NEUROTRANSMITTER TRANSPORTER, GABA), MEMBER 11; SLC6A11",SLC6A11,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+381,*600474,600474,820,CATHELICIDIN ANTIMICROBIAL PEPTIDE; CAMP,CAMP,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+382,*125660,125660,1674,DESMIN; DES,DES,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+383,*602601,602601,4973,"LOW DENSITY LIPOPROTEIN, OXIDIZED, RECEPTOR 1; OLR1",OLR1,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+384,*604479,604479,23411,SIRTUIN 1; SIRT1,SIRT1,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+385,*300011,300011,538,"ATPase, Cu(2+)-TRANSPORTING, ALPHA POLYPEPTIDE; ATP7A",ATP7A,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+386,*605921,605921,6786,STROMAL INTERACTION MOLECULE 1; STIM1,STIM1,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+387,*606424,606424,112398,EGL9 FAMILY HYPOXIA-INDUCIBLE FACTOR 2; EGLN2,EGLN2,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+388,*607623,607623,4864,NPC INTRACELLULAR CHOLESTEROL TRANSPORTER 1; NPC1,NPC1,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+389,*608083,608083,344,APOLIPOPROTEIN C-II; APOC2,APOC2,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+390,*300159,300159,7114,"THYMOSIN, BETA-4, X CHROMOSOME; TMSB4X",TMSB4X,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+391,*608786,608786,5091,PYRUVATE CARBOXYLASE; PC,PC,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+392,*621617,621617,79630,CHROMOSOME 1 OPEN READING FRAME 54; C1ORF54,C1ORF54,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+402,*151570,151570,4048,LEUKOTRIENE A4 HYDROLASE; LTA4H,LTA4H,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+403,*516020,516020,4519,CYTOCHROME b OF COMPLEX III; MTCYB,MTCYB,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+404,*191044,191044,7137,"TROPONIN I, CARDIAC; TNNI3",TNNI3,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+405,*604312,604312,1471,CYSTATIN 3; CST3,CST3,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+406,*606936,606936,54795,"TRANSIENT RECEPTOR POTENTIAL CATION CHANNEL, SUBFAMILY M, MEMBER 4; TRPM4",TRPM4,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+411,*165240,165240,2737,GLI-KRUPPEL FAMILY MEMBER 3; GLI3,GLI3,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+412,*600111,600111,6507,"SOLUTE CARRIER FAMILY 1 (GLIAL HIGH AFFINITY GLUTAMATE TRANSPORTER), MEMBER 3; SLC1A3",SLC1A3,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+413,*600445,600445,140,ADENOSINE A3 RECEPTOR; ADORA3,ADORA3,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+414,*609991,609991,84624,FIBRONECTIN TYPE III DOMAIN-CONTAINING PROTEIN 1; FNDC1,FNDC1,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+415,*612491,612491,51074,APAF1-INTERACTING PROTEIN; APIP,APIP,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+416,*601398,601398,7423,VASCULAR ENDOTHELIAL GROWTH FACTOR B; VEGFB,VEGFB,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+417,*191328,191328,7384,UBIQUINOL-CYTOCHROME c REDUCTASE CORE PROTEIN I; UQCRC1,UQCRC1,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+418,*602737,602737,6366,"CHEMOKINE, CC MOTIF, LIGAND 21; CCL21",CCL21,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+419,*603071,603071,2840,G PROTEIN-COUPLED RECEPTOR 17; GPR17,GPR17,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+420,*605441,605441,9370,"ADIPOCYTE-, C1q-, AND COLLAGEN DOMAIN-CONTAINING; ADIPOQ",ADIPOQ,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+421,*300112,300112,5355,PROTEOLIPID PROTEIN 2; PLP2,PLP2,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+422,*606018,606018,10085,EGF-LIKE REPEATS- AND DISCOIDIN I-LIKE DOMAINS-CONTAINING PROTEIN 3; EDIL3,EDIL3,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+423,*606126,606126,79370,BCL2-LIKE 14; BCL2L14,BCL2L14,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+424,*606536,606536,25932,CHLORIDE INTRACELLULAR CHANNEL 4; CLIC4,CLIC4,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+425,*607991,607991,6547,"SOLUTE CARRIER FAMILY 8 (SODIUM-CALCIUM EXCHANGER), MEMBER A3; SLC8A3",SLC8A3,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+426,*608455,608455,5837,"GLYCOGEN PHOSPHORYLASE, MUSCLE; PYGM",PYGM,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+427,*300865,300865,574506,MICRO RNA 503; MIR503,MIR503,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+428,*602444,602444,6940,ZINC FINGER PROTEIN 354A; ZNF354A,ZNF354A,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+429,*603951,603951,3779,"POTASSIUM CHANNEL, CALCIUM-ACTIVATED, LARGE CONDUCTANCE, SUBFAMILY M, BETA MEMBER 1; KCNMB1",KCNMB1,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+430,*605619,605619,50604,INTERLEUKIN 20; IL20,IL20,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+431,*620122,620122,57189,DENN DOMAIN-CONTAINING PROTEIN 11; DENND11,DENND11,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+432,*621334,621334,574454,MICRO RNA 496; MIR496,MIR496,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+445,*180901,180901,6261,RYANODINE RECEPTOR 1; RYR1,RYR1,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+446,*516003,516003,4538,"COMPLEX I, SUBUNIT ND4; MTND4",MTND4,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+447,*516005,516005,4540,"COMPLEX I, SUBUNIT ND5; MTND5",MTND5,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+448,*590060,590060,4566,"TRANSFER RNA, MITOCHONDRIAL, LYSINE; MTTK",MTTK,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+449,*608955,608955,25809,TUBULIN TYROSINE LIGASE-LIKE 1; TTLL1,TTLL1,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+450,*617455,617455,10621,"POLYMERASE III, RNA, SUBUNIT F; POLR3F",POLR3F,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+451,*605437,605437,5583,"PROTEIN KINASE C, ETA; PRKCH",PRKCH,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+466,*147450,147450,6647,SUPEROXIDE DISMUTASE 1; SOD1,SOD1,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+467,*147460,147460,6648,SUPEROXIDE DISMUTASE 2; SOD2,SOD2,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+468,*104311,104311,5663,PRESENILIN 1; PSEN1,PSEN1,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+469,*173870,173870,142,POLY(ADP-RIBOSE) POLYMERASE 1; PARP1,PARP1,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+470,*185490,185490,6649,SUPEROXIDE DISMUTASE 3; SOD3,SOD3,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+471,*600124,600124,3181,HETEROGENEOUS NUCLEAR RIBONUCLEOPROTEIN A2/B1; HNRNPA2B1,HNRNPA2B1,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+472,*600639,600639,835,"CASPASE 2, APOPTOSIS-RELATED CYSTEINE PROTEASE; CASP2",CASP2,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+473,*600748,600748,7009,TRANSMEMBRANE BAX INHIBITOR MOTIF-CONTAINING PROTEIN 6; TMBIM6,TMBIM6,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+474,*610077,610077,28984,REGULATOR OF CELL CYCLE; RGCC,RGCC,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+475,*610705,610705,124599,"CD300 ANTIGEN-LIKE FAMILY, MEMBER B; CD300LB",CD300LB,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+476,*613614,613614,574501,MICRO RNA 499; MIR499,MIR499,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+477,*614463,614463,65009,NMYC DOWNSTREAM-REGULATED GENE 4; NDRG4,NDRG4,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+478,*615857,615857,55239,2-OXOGLUTARATE- AND IRON-DEPENDENT OXYGENASE DOMAIN-CONTAINING PROTEIN 1; OGFOD1,OGFOD1,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+479,*134920,134920,2247,FIBROBLAST GROWTH FACTOR 2; FGF2,FGF2,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+480,*138450,138450,6472,"SERINE HYDROXYMETHYLTRANSFERASE, MITOCHONDRIAL; SHMT2",SHMT2,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+481,*603083,603083,3191,HETEROGENEOUS NUCLEAR RIBOPROTEIN L; HNRNPL,HNRNPL,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+482,*603293,603293,664,BCL2/ADENOVIRUS E1B 19-KD PROTEIN-INTERACTING PROTEIN 3; BNIP3,BNIP3,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+483,*603907,603907,1965,"EUKARYOTIC TRANSLATION INITIATION FACTOR 2, SUBUNIT 1; EIF2S1",EIF2S1,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+484,*604252,604252,23621,BETA-SITE AMYLOID BETA A4 PRECURSOR PROTEIN-CLEAVING ENZYME 1; BACE1,BACE1,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+485,*604486,604486,10105,"PEPTIDYL-PROLYL CIS/TRANS ISOMERASE, MITOCHONDRIAL; PPIF",PPIF,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+486,*605263,605263,53358,SHC TRANSFORMING PROTEIN 3; SHC3,SHC3,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+487,*606006,606006,23163,"GOLGI-ASSOCIATED, GAMMA-ADAPTIN EAR-CONTAINING, ARF-BINDING PROTEIN 3; GGA3",GGA3,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+488,*606381,606381,56670,SUCCINATE RECEPTOR 1; SUCNR1,SUCNR1,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+489,*606441,606441,27429,HTRA SERINE PEPTIDASE 2; HTRA2,HTRA2,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+490,*606923,606923,27198,HYDROXYCARBOXYLIC ACID RECEPTOR 1; HCAR1,HCAR1,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+491,*190040,190040,5155,"PLATELET-DERIVED GROWTH FACTOR, BETA POLYPEPTIDE; PDGFB",PDGFB,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+492,*238300,238300,2731,GLYCINE DECARBOXYLASE; GLDC,GLDC,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+493,*607203,607203,60485,"SALVADOR FAMILY, WW DOMAIN-CONTAINING PROTEIN 1; SAV1",SAV1,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+494,*610562,610562,80149,ZINC FINGER CCCH DOMAIN-CONTAINING PROTEIN 12A; ZC3H12A,ZC3H12A,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+495,*620391,620391,54956,"POLY(ADP-RIBOSE) POLYMERASE FAMILY, MEMBER 16; PARP16",PARP16,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+496,*620724,620724,55268,ENOYL COENZYME A HYDRATASE DOMAIN-CONTAINING PROTEIN 2; ECHDC2,ECHDC2,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+513,*120090,120090,1284,"COLLAGEN, TYPE IV, ALPHA-2; COL4A2",COL4A2,etiologic_record_without_target_extraction,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+514,*600441,600441,2621,GROWTH ARREST-SPECIFIC 6; GAS6,GAS6,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+515,*616821,616821,55901,THROMBOSPONDIN TYPE 1 DOMAIN-CONTAINING PROTEIN 1; THSD1,THSD1,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+516,*617906,617906,29105,CILIA- AND FLAGELLA-ASSOCIATED PROTEIN 20; CFAP20,CFAP20,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+517,*134850,134850,2266,"FIBRINOGEN, G GAMMA POLYPEPTIDE; FGG",FGG,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+518,*601667,601667,284,ANGIOPOIETIN 1; ANGPT1,ANGPT1,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+519,*192974,192974,3673,"INTEGRIN, ALPHA-2; ITGA2",ITGA2,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+520,*602533,602533,11315,ONCOGENE DJ1; DJ1,DJ1,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+521,*609806,609806,3145,HYDROXYMETHYLBILANE SYNTHASE; HMBS,HMBS,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+522,*159555,159555,4297,LYSINE-SPECIFIC METHYLTRANSFERASE 2A; KMT2A,KMT2A,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+523,*136351,136351,2322,FMS-RELATED TYROSINE KINASE 3; FLT3,FLT3,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+524,*600618,600618,2120,ETS VARIANT TRANSCRIPTION FACTOR 6; ETV6,ETV6,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+525,*601021,601021,4928,"NUCLEOPORIN, 98-KD; NUP98",NUP98,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+526,*116897,116897,1050,"CCAAT/ENHANCER-BINDING PROTEIN, ALPHA; CEBPA",CEBPA,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+527,*189980,189980,25,"ABL PROTOONCOGENE 1, NONRECEPTOR TYROSINE KINASE; ABL1",ABL1,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+528,*602769,602769,1788,DNA METHYLTRANSFERASE 3A; DNMT3A,DNMT3A,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+529,*151410,151410,613,BCR ACTIVATOR OF RhoGEF AND GTPase; BCR,BCR,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+531,*164040,164040,4869,"NUCLEOPHOSMIN/NUCLEOPLASMIN FAMILY, MEMBER 1; NPM1",NPM1,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+533,*114350,114350,8021,"NUCLEOPORIN, 214-KD; NUP214",NUP214,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+534,*191170,191170,7157,TUMOR PROTEIN p53; TP53,TP53,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+536,*147141,147141,6929,TRANSCRIPTION FACTOR 3; TCF3,TCF3,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+537,*173320,173320,6050,RIBONUCLEASE/ANGIOGENIN INHIBITOR 1; RNH1,RNH1,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+539,*164160,164160,3952,LEPTIN; LEP,LEP,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+540,*600160,600160,1029,CYCLIN-DEPENDENT KINASE INHIBITOR 2A; CDKN2A,CDKN2A,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+541,*125270,125270,210,DELTA-AMINOLEVULINATE DEHYDRATASE; ALAD,ALAD,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+542,*179710,179710,1104,REGULATOR OF CHROMOSOME CONDENSATION 1; RCC1,RCC1,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+543,*190030,190030,2242,"FES PROTOONCOGENE, TYROSINE KINASE; FES",FES,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+546,*176797,176797,7704,ZINC FINGER- AND BTB DOMAIN-CONTAINING PROTEIN 16; ZBTB16,ZBTB16,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+550,*159556,159556,4298,MLLT1 SUPER ELONGATION COMPLEX SUBUNIT; MLLT1,MLLT1,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+551,*600140,600140,1387,CREB-BINDING PROTEIN; CREBBP,CREBBP,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+552,*138971,138971,1441,"COLONY-STIMULATING FACTOR 3 RECEPTOR, GRANULOCYTE; CSF3R",CSF3R,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+553,*300335,300335,59272,ANGIOTENSIN I-CONVERTING ENZYME 2; ACE2,ACE2,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+554,*305371,305371,2623,GATA-BINDING PROTEIN 1; GATA1,GATA1,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+556,*121360,121360,865,"CORE-BINDING FACTOR, BETA SUBUNIT; CBFB",CBFB,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+557,*606989,606989,4353,MYELOPEROXIDASE; MPO,MPO,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+558,*607982,607982,57410,SCY1-LIKE 1; SCYL1,SCYL1,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+559,*167414,167414,5079,PAIRED BOX GENE 5; PAX5,PAX5,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+565,*607024,607024,51163,DEBRANCHING RNA LARIATS 1; DBR1,DBR1,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+566,*608107,608107,4210,"MEFV INNATE IMMUNITY REGULATOR, PYRIN; MEFV",MEFV,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+574,*187270,187270,7015,TELOMERASE REVERSE TRANSCRIPTASE; TERT,TERT,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+575,*600650,600650,1376,CARNITINE PALMITOYLTRANSFERASE II; CPT2,CPT2,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+576,*600890,600890,3030,"HYDROXYACYL-CoA DEHYDROGENASE/3-KETOACYL-CoA THIOLASE/ENOYL-CoA HYDRATASE, ALPHA SUBUNIT; HADHA",HADHA,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+577,*137295,137295,2624,GATA-BINDING PROTEIN 2; GATA2,GATA2,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+578,*142981,142981,3233,HOMEOBOX D4; HOXD4,HOXD4,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+579,*601728,601728,5728,PHOSPHATASE AND TENSIN HOMOLOG; PTEN,PTEN,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+580,*602170,602170,4615,MYD88 INNATE IMMUNE SIGNAL TRANSDUCTION ADAPTOR; MYD88,MYD88,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+581,*603023,603023,10320,IKAROS FAMILY ZINC FINGER 1; IKZF1,IKZF1,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+582,*300694,300694,407008,MICRO RNA 223; MIR223,MIR223,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+583,*619378,619378,677814,"SMALL NUCLEOLAR RNA, H/ACA BOX, 31; SNORA31",SNORA31,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+589,*124092,124092,3586,INTERLEUKIN 10; IL10,IL10,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+590,*141900,141900,3043,HEMOGLOBIN--BETA LOCUS; HBB,HBB,verified_linked_gene,Extended_Etiologic,Extended_target_gene,保留为预设AIS证据记录；是否可产出靶点由gene–phenotype链路字段决定
+591,*142385,142385,3131,HEPATIC LEUKEMIA FACTOR; HLF,HLF,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+592,*601181,601181,5903,RAN-BINDING PROTEIN 2; RANBP2,RANBP2,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+593,*601408,601408,7994,LYSINE ACETYLTRANSFERASE 6A; KAT6A,KAT6A,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+594,*605312,605312,9518,GROWTH/DIFFERENTIATION FACTOR 15; GDF15,GDF15,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+595,*606411,606411,64849,"SOLUTE CARRIER FAMILY 13 (SODIUM-DEPENDENT DICARBOXYLATE TRANSPORTER), MEMBER 3; SLC13A3",SLC13A3,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+604,*159557,159557,4299,ALF TRANSCRIPTION ELONGATION FACTOR 1; AFF1,AFF1,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+605,*165215,165215,2122,MDS1 AND EVI1 COMPLEX LOCUS; MECOM,MECOM,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+606,*180385,180385,4005,LIM DOMAIN ONLY 2; LMO2,LMO2,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+607,*604176,604176,9021,SUPPRESSOR OF CYTOKINE SIGNALING 3; SOCS3,SOCS3,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+608,*190070,190070,3845,"KRAS PROTOONCOGENE, GTPase; KRAS",KRAS,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+618,*164720,164720,2113,"ETS PROTOONCOGENE 1, TRANSCRIPTION FACTOR; ETS1",ETS1,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+619,*164740,164740,2114,"ETS PROTOONCOGENE 2, TRANSCRIPTION FACTOR; ETS2",ETS2,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+620,*165080,165080,2078,ETS TRANSCRIPTION FACTOR ERG; ERG,ERG,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+621,*165170,165170,6688,SPI1 PROTOONCOGENE; SPI1,SPI1,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+622,*187680,187680,7172,THIOPURINE S-METHYLTRANSFERASE; TPMT,TPMT,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+624,*600832,600832,8125,"ACIDIC NUCLEAR PHOSPHOPROTEIN 32 FAMILY, MEMBER A; ANP32A",ANP32A,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+625,*609927,609927,137492,VPS37A SUBUNIT OF ESCRIT-I; VPS37A,VPS37A,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+626,*611817,611817,22914,"KILLER CELL LECTIN-LIKE RECEPTOR, SUBFAMILY K, MEMBER 1; KLRK1",KLRK1,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+627,*125264,125264,7913,DEK ONCOGENE; DEK,DEK,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+628,*142857,142857,3123,"MAJOR HISTOCOMPATIBILITY COMPLEX, CLASS II, DR BETA-1; HLA-DRB1",HLA-DRB1,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+629,*602667,602667,4683,NIBRIN; NBN,NBN,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+630,*603025,603025,8301,PHOSPHATIDYLINOSITOL-BINDING CLATHRIN ASSEMBLY PROTEIN; PICALM,PICALM,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+631,*603109,603109,4088,SMAD FAMILY MEMBER 3; SMAD3,SMAD3,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+632,*607601,607601,148022,TIR DOMAIN-CONTAINING ADAPTOR MOLECULE 1; TICAM1,TICAM1,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+633,*190180,190180,7040,"TRANSFORMING GROWTH FACTOR, BETA-1; TGFB1",TGFB1,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+650,*146661,146661,3575,INTERLEUKIN 7 RECEPTOR; IL7R,IL7R,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+651,*147700,147700,3417,"ISOCITRATE DEHYDROGENASE, NADP(+), 1; IDH1",IDH1,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+652,*160745,160745,4629,"MYOSIN, HEAVY CHAIN 11, SMOOTH MUSCLE; MYH11",MYH11,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+653,*180230,180230,1381,"RETINOIC ACID-BINDING PROTEIN, CELLULAR, TYPE I; CRABP1",CRABP1,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+654,*189990,189990,4602,"MYB PROTOONCOGENE, TRANSCRIPTION FACTOR; MYB",MYB,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+655,*600040,600040,581,BCL2-ASSOCIATED X PROTEIN; BAX,BAX,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+656,*600185,600185,675,BRCA2 DNA REPAIR-ASSOCIATED PROTEIN; BRCA2,BRCA2,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+657,*611249,611249,406884,MICRO RNA LET7B; MIRLET7B,MIRLET7B,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+658,*611769,611769,406916,MICRO RNA 128-2; MIR128-2,MIR128-2,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+659,*611774,611774,406915,MICRO RNA 128-1; MIR128-1,MIR128-1,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+660,*613871,613871,2184,FUMARYLACETOACETATE HYDROLASE; FAH,FAH,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+661,*615792,615792,55270,NUDIX HYDROLASE 15; NUDT15,NUDT15,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+662,*139380,139380,2782,"GUANINE NUCLEOTIDE-BINDING PROTEIN, BETA-1; GNB1",GNB1,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+663,*142800,142800,3105,"MAJOR HISTOCOMPATIBILITY COMPLEX, CLASS I, A; HLA-A",HLA-A,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+664,*601763,601763,841,"CASPASE 8, APOPTOSIS-RELATED CYSTEINE PROTEASE; CASP8",CASP8,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+665,*601993,601993,10499,NUCLEAR RECEPTOR COACTIVATOR 2; NCOA2,NCOA2,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+666,*602076,602076,7442,"TRANSIENT RECEPTOR POTENTIAL CATION CHANNEL, SUBFAMILY V, MEMBER 1; TRPV1",TRPV1,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+667,*191045,191045,7139,"TROPONIN T2, CARDIAC; TNNT2",TNNT2,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+668,*191740,191740,54658,"UDP-GLYCOSYLTRANSFERASE 1 FAMILY, POLYPEPTIDE A1; UGT1A1",UGT1A1,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+669,*604491,604491,868,CAS-BR-M MURINE ECOTROPIC RETROVIRAL TRANSFORMING SEQUENCE B; CBLB,CBLB,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+670,*605384,605384,59067,INTERLEUKIN 21; IL21,IL21,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+671,*606077,606077,64783,RNA-BINDING MOTIF PROTEIN 15; RBM15,RBM15,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+672,*608382,608382,9093,"DNAJ/HSP40 HOMOLOG, SUBFAMILY A, MEMBER 3; DNAJA3",DNAJA3,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+673,*190060,190060,4342,"MOS PROTOONCOGENE, SERINE/THREONINE KINASE; MOS",MOS,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+674,*190080,190080,4609,"MYC PROTOONCOGENE, bHLH TRANSCRIPTION FACTOR; MYC",MYC,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+675,*190120,190120,7067,"THYROID HORMONE RECEPTOR, ALPHA-1; THRA",THRA,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+676,*621197,621197,389206,BEN DOMAIN-CONTAINING PROTEIN 4; BEND4,BEND4,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+710,*147558,147558,3694,"INTEGRIN, BETA-6; ITGB6",ITGB6,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+711,*147575,147575,3659,INTERFERON REGULATORY FACTOR 1; IRF1,IRF1,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+712,*147650,147650,3418,"ISOCITRATE DEHYDROGENASE, NADP(+), 2; IDH2",IDH2,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+713,*147670,147670,3643,INSULIN RECEPTOR; INSR,INSR,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+714,*147720,147720,3553,INTERLEUKIN 1-BETA; IL1B,IL1B,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+715,*147740,147740,3562,INTERLEUKIN 3; IL3,IL3,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+716,*159559,159559,4301,AFADIN; AFDN,AFDN,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+717,*164790,164790,4893,"NRAS PROTOONCOGENE, GTPase; NRAS",NRAS,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+718,*164920,164920,3815,"KIT PROTOONCOGENE, RECEPTOR TYROSINE KINASE; KIT",KIT,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+719,*104750,104750,6288,SERUM AMYLOID A1; SAA1,SAA1,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+720,*176310,176310,5087,PRE-B-CELL LEUKEMIA TRANSCRIPTION FACTOR 1; PBX1,PBX1,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+721,*180474,180474,6146,RIBOSOMAL PROTEIN L22; RPL22,RPL22,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+722,*186770,186770,3195,"T-CELL LEUKEMIA, HOMEOBOX 1; TLX1",TLX1,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+723,*186880,186880,28755,T-CELL RECEPTOR ALPHA CHAIN CONSTANT REGION; TRAC,TRAC,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+724,*600284,600284,8178,ELONGATION FACTOR RNA POLYMERASE II; ELL,ELL,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+725,*600861,600861,5997,REGULATOR OF G PROTEIN SIGNALING 2; RGS2,RGS2,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+726,*600923,600923,5498,PROTOPORPHYRINOGEN OXIDASE; PPOX,PPOX,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+727,*608961,608961,80036,"TRANSIENT RECEPTOR POTENTIAL CATION CHANNEL, SUBFAMILY M, MEMBER 3; TRPM3",TRPM3,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+728,*609337,609337,406947,MICRO RNA 155; MIR155,MIR155,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+729,*610782,610782,407021,MICRO RNA 29A; MIR29A,MIR29A,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+730,*611060,611060,26040,SET-BINDING PROTEIN 1; SETBP1,SETBP1,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+731,*138981,138981,1439,"GRANULOCYTE-MACROPHAGE COLONY-STIMULATING FACTOR RECEPTOR, BETA; CSF2RB",CSF2RB,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+732,*142858,142858,3115,"MAJOR HISTOCOMPATIBILITY COMPLEX, CLASS II, DP BETA-1; HLA-DPB1",HLA-DPB1,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+733,*601172,601172,1464,CHONDROITIN SULFATE PROTEOGLYCAN 4; CSPG4,CSPG4,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+734,*601470,601470,1524,"CHEMOKINE, CX3C MOTIF, RECEPTOR 1; CX3CR1",CX3CR1,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+735,*601768,601768,6455,"SH3 DOMAIN, GRB2-LIKE, 1; SH3GL1",SH3GL1,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+736,*193210,193210,3685,"INTEGRIN, ALPHA-V; ITGAV",ITGAV,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+737,*603149,603149,3605,INTERLEUKIN 17A; IL17A,IL17A,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+738,*603551,603551,8692,HYALURONOGLUCOSAMINIDASE 2; HYAL2,HYAL2,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+739,*604834,604834,29110,TANK-BINDING KINASE 1; TBK1,TBK1,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+740,*604895,604895,30009,T-BOX TRANSCRIPTION FACTOR 21; TBX21,TBX21,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+741,*605166,605166,8841,HISTONE DEACETYLASE 3; HDAC3,HDAC3,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+742,*605330,605330,50616,INTERLEUKIN 22; IL22,IL22,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+743,*300033,300033,4303,FORKHEAD BOX O4; FOXO4,FOXO4,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+744,*606021,606021,23532,PRAME NUCLEAR RECEPTOR TRANSCRIPTIONAL REGULATOR; PRAME,PRAME,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+745,*606078,606078,57591,MYOCARDIN-RELATED TRANSCRIPTION FACTOR A; MRTFA,MRTFA,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+746,*606678,606678,79054,"TRANSIENT RECEPTOR POTENTIAL CATION CHANNEL, SUBFAMILY M, MEMBER 8; TRPM8",TRPM8,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+747,*607048,607048,10948,START DOMAIN-CONTAINING PROTEIN 3; STARD3,STARD3,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+748,*608025,608025,51594,NBAS SUBUNIT OF NRZ TETHERING COMPLEX; NBAS,NBAS,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+749,*608300,608300,162417,N-ACETYLGLUTAMATE SYNTHASE; NAGS,NAGS,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+750,*300377,300377,1756,DYSTROPHIN; DMD,DMD,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+751,*602396,602396,653145,ANNEXIN A8; ANXA8,ANXA8,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+752,*605580,605580,51561,INTERLEUKIN 23-ALPHA; IL23A,IL23A,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+753,*608801,608801,2639,GLUTARYL-CoA DEHYDROGENASE; GCDH,GCDH,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+802,*155555,155555,4157,MELANOCORTIN 1 RECEPTOR; MC1R,MC1R,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+803,*159540,159540,3976,LEUKEMIA-INHIBITORY FACTOR; LIF,LIF,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+804,*165070,165070,2321,FMS-RELATED TYROSINE KINASE 1; FLT1,FLT1,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+805,*105850,105850,283,ANGIOGENIN; ANG,ANG,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+806,*106195,106195,6508,"SOLUTE CARRIER FAMILY 4 (ANION EXCHANGER), MEMBER 3; SLC4A3",SLC4A3,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+807,*107720,107720,345,APOLIPOPROTEIN C-III; APOC3,APOC3,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+808,*107770,107770,4035,LOW DENSITY LIPOPROTEIN RECEPTOR-RELATED PROTEIN 1; LRP1,LRP1,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+809,*114760,114760,762,CARBONIC ANHYDRASE IV; CA4,CA4,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+810,*120325,120325,1306,"COLLAGEN, TYPE XV, ALPHA-1; COL15A1",COL15A1,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+811,*172860,172860,5176,"SERPIN PEPTIDASE INHIBITOR, CLADE F, MEMBER 1; SERPINF1",SERPINF1,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+812,*173510,173510,948,CD36 ANTIGEN; CD36,CD36,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+813,*176790,176790,5034,"PROCOLLAGEN-PROLINE, 2-OXOGLUTARATE-4-DIOXYGENASE, BETA SUBUNIT; P4HB",P4HB,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+814,*179820,179820,5972,RENIN; REN,REN,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+815,*188840,188840,7273,TITIN; TTN,TTN,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+816,*600133,600133,3910,"LAMININ, ALPHA-4; LAMA4",LAMA4,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+817,*600228,600228,6337,"SODIUM CHANNEL, EPITHELIAL 1, ALPHA SUBUNIT; SCNN1A",SCNN1A,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+818,*600713,600713,3290,"11-BETA-HYDROXYSTEROID DEHYDROGENASE, TYPE I; HSD11B1",HSD11B1,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+819,*600715,600715,7060,THROMBOSPONDIN IV; THBS4,THBS4,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+820,*600870,600870,2869,G PROTEIN-COUPLED RECEPTOR KINASE 5; GRK5,GRK5,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+821,*609415,609415,407975,MICRO RNA 17 HOST GENE; MIR17HG,MIR17HG,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+822,*609599,609599,27063,ANKYRIN REPEAT DOMAIN-CONTAINING PROTEIN 1; ANKRD1,ANKRD1,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+823,*609841,609841,80024,"SOLUTE CARRIER FAMILY 8 (SODIUM/LITHIUM/CALCIUM EXCHANGER), MEMBER B1; SLC8B1",SLC8B1,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+824,*611024,611024,63934,ZINC FINGER PROTEIN 667; ZNF667,ZNF667,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+825,*611651,611651,50487,"PHOSPHOLIPASE A2, GROUP III; PLA2G3",PLA2G3,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+826,*611761,611761,64788,LIPASE MATURATION FACTOR 1; LMF1,LMF1,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+827,*611861,611861,83440,ADP-DEPENDENT GLUCOKINASE; ADPGK,ADPGK,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+828,*613516,613516,9711,RUN DOMAIN- AND CYSTEINE-RICH DOMAIN-CONTAINING BECLIN-1-INTERACTING PROTEIN; RUBCN,RUBCN,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+829,*616241,616241,284207,METEORIN-LIKE PROTEIN; METRNL,METRNL,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+830,*616484,616484,30851,TAX1-BINDING PROTEIN 3; TAX1BP3,TAX1BP3,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+831,*616891,616891,100507537,SMALL TRANSMEMBRANE REGULATOR OF ION TRANSPORT 1; STRIT1,STRIT1,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+832,*618207,618207,23256,SEC1 FAMILY DOMAIN-CONTAINING PROTEIN 1; SCFD1,SCFD1,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+833,*618427,618427,55248,PROTON-ACTIVATED CHLORIDE CHANNEL 1; PACC1,PACC1,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+834,*618556,618556,375704,ENERGY HOMEOSTASIS-ASSOCIATED PROTEIN; ENHO,ENHO,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+835,*618623,618623,25994,"HIG1 HYPOXIA-INDUCIBLE DOMAIN FAMILY, MEMBER 1A; HIGD1A",HIGD1A,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+836,*131240,131240,1906,ENDOTHELIN 1; EDN1,EDN1,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+837,*138251,138251,2907,"GLUTAMATE RECEPTOR, IONOTROPIC, N-METHYL-D-ASPARTATE, ASSOCIATED PROTEIN; GRINA",GRINA,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+838,*138254,138254,2905,"GLUTAMATE RECEPTOR, IONOTROPIC, N-METHYL-D-ASPARTATE, SUBUNIT 2C; GRIN2C",GRIN2C,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+839,*142445,142445,3084,NEUREGULIN 1; NRG1,NRG1,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+840,*601614,601614,9423,NETRIN 1; NTN1,NTN1,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+841,*601772,601772,3014,"H2A HISTONE FAMILY, MEMBER X; H2AFX",H2AFX,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+842,*601810,601810,1763,DNA REPLICATION HELICASE/NUCLEASE 2; DNA2,DNA2,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+843,*602717,602717,2906,"GLUTAMATE RECEPTOR, IONOTROPIC, N-METHYL-D-ASPARTATE, SUBUNIT 2D; GRIN2D",GRIN2D,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+844,*602858,602858,1717,7-DEHYDROCHOLESTEROL REDUCTASE; DHCR7,DHCR7,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+845,*603501,603501,8505,POLY(ADP-RIBOSE) GLYCOHYDROLASE; PARG,PARG,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+846,*603538,603538,8564,KYNURENINE 3-MONOOXYGENASE; KMO,KMO,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+847,*604824,604824,9365,KLOTHO; KL,KL,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+848,*604959,604959,5366,PHORBOL-12-MYRISTATE-13-ACETATE-INDUCED PROTEIN 1; PMAIP1,PMAIP1,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+849,*605111,605111,9294,SPHINGOSINE-1-PHOSPHATE RECEPTOR 2; S1PR2,S1PR2,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+850,*605185,605185,54567,DELTA-LIKE CANONICAL NOTCH LIGAND 4; DLL4,DLL4,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+851,*251170,251170,4598,MEVALONATE KINASE; MVK,MVK,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+852,*606356,606356,114908,TRANSMEMBRANE PROTEIN 123; TMEM123,TMEM123,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+853,*606448,606448,10587,THIOREDOXIN REDUCTASE 2; TXNRD2,TXNRD2,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+854,*608202,608202,80279,CDK5 REGULATORY SUBUNIT-ASSOCIATED PROTEIN 3; CDK5RAP3,CDK5RAP3,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+855,*166490,166490,6696,SECRETED PHOSPHOPROTEIN 1; SPP1,SPP1,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+856,*601115,601115,2913,"GLUTAMATE RECEPTOR, METABOTROPIC, 3; GRM3",GRM3,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+857,*311870,311870,5255,"PHOSPHORYLASE KINASE, MUSCLE, ALPHA-1 SUBUNIT; PHKA1",PHKA1,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+858,*620812,620812,644672,CLAUDIN 25; CLDN25,CLDN25,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+916,*148066,148066,3861,"KERATIN 14, TYPE I; KRT14",KRT14,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+917,*150330,150330,4000,LAMIN A/C; LMNA,LMNA,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+918,*152200,152200,4018,LIPOPROTEIN(a); LPA,LPA,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+919,*153454,153454,5351,"PROCOLLAGEN-LYSINE, 2-OXOGLUTARATE 5-DIOXYGENASE; PLOD1",PLOD1,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+920,*160760,160760,4625,"MYOSIN, HEAVY CHAIN 7, CARDIAC MUSCLE, BETA; MYH7",MYH7,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+921,*160777,160777,4644,MYOSIN VA; MYO5A,MYO5A,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+922,*114250,114250,844,CALSEQUESTRIN 1; CASQ1,CASQ1,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+923,*173321,173321,5269,"SERPIN PEPTIDASE INHIBITOR, CLADE B (OVALBUMIN), MEMBER 6; SERPINB6",SERPINB6,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+924,*176300,176300,7276,TRANSTHYRETIN; TTR,TTR,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+925,*176805,176805,5742,PROSTAGLANDIN-ENDOPEROXIDE SYNTHASE 1; PTGS1,PTGS1,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+926,*188070,188070,6915,"THROMBOXANE A2 RECEPTOR, PLATELET; TBXA2R",TBXA2R,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+927,*516002,516002,4537,"COMPLEX I, SUBUNIT ND3; MTND3",MTND3,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+928,*516070,516070,4509,ATP SYNTHASE 8; MTATP8,MTATP8,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+929,*561010,561010,4550,"RIBOSOMAL RNA, MITOCHONDRIAL, 16S; MTRNR2",MTRNR2,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+930,*590000,590000,4553,"TRANSFER RNA, MITOCHONDRIAL, ALANINE; MTTA",MTTA,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+931,*590040,590040,4564,"TRANSFER RNA, MITOCHONDRIAL, HISTIDINE; MTTH",MTTH,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+932,*600008,600008,4837,NICOTINAMIDE N-METHYLTRANSFERASE; NNMT,NNMT,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+933,*600760,600760,6338,"SODIUM CHANNEL, EPITHELIAL 1, BETA SUBUNIT; SCNN1B",SCNN1B,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+934,*600940,600940,3980,"LIGASE III, DNA, ATP-DEPENDENT; LIG3",LIG3,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+935,*609010,609010,56922,3-METHYLCROTONYL-CoA CARBOXYLASE 1; MCCC1,MCCC1,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+936,*612137,612137,81847,RING FINGER PROTEIN 146; RNF146,RNF146,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+937,*612283,612283,5624,PROTEIN C; PROC,PROC,verified_linked_gene,Extended_Etiologic,Extended_target_gene,保留为预设AIS证据记录；是否可产出靶点由gene–phenotype链路字段决定
+938,*613753,613753,406993,MICRO RNA 211; MIR211,MIR211,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+939,*614259,614259,149465,CILIA- AND FLAGELLA-ASSOCIATED PROTEIN 57; CFAP57,CFAP57,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+940,*617292,617292,441027,TRANSMEMBRANE PROTEIN 150C; TMEM150C,TMEM150C,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+941,*617634,617634,643669,COILED-COIL GLUTAMATE-RICH PROTEIN 2; CCER2,CCER2,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+942,*134570,134570,2162,"FACTOR XIII, A1 SUBUNIT; F13A1",F13A1,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+943,*601844,601844,65266,"PROTEIN KINASE, LYSINE-DEFICIENT 4; WNK4",WNK4,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+944,*191523,191523,7391,UPSTREAM TRANSCRIPTION FACTOR 1; USF1,USF1,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+945,*603297,603297,79659,"DYNEIN, CYTOPLASMIC 2, HEAVY CHAIN 1; DYNC2H1",DYNC2H1,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+946,*604544,604544,23395,LEUCYL-tRNA SYNTHETASE 2; LARS2,LARS2,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+947,*604577,604577,11149,POPEYE DOMAIN cAMP EFFECTOR 1; POPDC1,POPDC1,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+948,*604633,604633,30008,EGF-CONTAINING FIBULIN-LIKE EXTRACELLULAR MATRIX PROTEIN 2; EFEMP2,EFEMP2,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+949,*605204,605204,1861,TORSIN 1A; TOR1A,TOR1A,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+950,*276903,276903,4647,MYOSIN VIIA; MYO7A,MYO7A,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+951,*606477,606477,63826,SERINE RACEMASE; SRR,SRR,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+952,*606609,606609,11277,3-PRIME REPAIR EXONUCLEASE 1; TREX1,TREX1,verified_linked_gene,Extended_Etiologic,Extended_target_gene,保留为预设AIS证据记录；是否可产出靶点由gene–phenotype链路字段决定
+953,*606800,606800,2548,"GLUCOSIDASE, ALPHA, ACID; GAA",GAA,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+954,*606980,606980,56997,COENZYME Q8A; COQ8A,COQ8A,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+955,*607929,607929,83605,CCM2 SCAFFOLD PROTEIN; CCM2,CCM2,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+956,*608112,608112,22906,"TRAFFICKING PROTEIN, KINESIN-BINDING 1; TRAK1",TRAK1,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+957,*300384,300384,2010,EMERIN; EMD,EMD,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+958,*311800,311800,5230,PHOSPHOGLYCERATE KINASE 1; PGK1,PGK1,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+959,*300205,300205,10682,EMOPAMIL-BINDING PROTEIN; EBP,EBP,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+960,*238331,238331,1738,DIHYDROLIPOAMIDE DEHYDROGENASE; DLD,DLD,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+961,*605546,605546,51206,"GLYCOPROTEIN VI, PLATELET; GP6",GP6,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
+962,*621202,621202,118461,CHROMOSOME 10 OPEN READING FRAME 71; C10ORF71,C10ORF71,not_verified_for_AIS,,Exclude_from_gene_set,仅为MIM Match全文搜索命中的基因条目，不能自动解释为AIS疾病基因
