@@ -1,0 +1,9 @@
+﻿Check,Expected,Observed,Status
+Strict target count,28,28,PASS
+Primary target count,81,81,PASS
+Medium target count,176,176,PASS
+Broad target count,430,430,PASS
+Nested layers strict⊆primary⊆medium⊆broad,1,1,PASS
+Duplicate Gene Symbols in master,0,0,PASS
+Format-invalid Gene Symbols,0,0,PASS
+Primary genes supported by at least two databases,12,12,PASS

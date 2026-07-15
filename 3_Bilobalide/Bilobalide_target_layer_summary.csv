@@ -1,0 +1,5 @@
+﻿Tier,Count,Definition,Recommended_Use,Gene_List_File
+Strict_25,25,Swiss Probability≥0.5 + SuperPred Probability>80% and model accuracy>85% + PharmMapper Norm-Fit≥0.9 and z-score≥1 + PPB3 confidence>0.2; union and deduplication,Strict sensitivity / strongest prediction layer,Bilobalide_targets_strict_25_gene_symbols.txt
+CrossPriority_22,22,Genes occurring in at least two of the seven selected source sets; COMET counted but also reported separately without COMET,Evidence prioritization only; not independent validation,Bilobalide_targets_cross_database_priority_22_gene_symbols.txt
+Recommended_42,42,Strict_25 union CrossPriority_22,Primary Bilobalide target set for drug–disease intersection,Bilobalide_targets_recommended_42_gene_symbols.txt
+Extended_171,171,Union of the seven selected prediction-source sets after human gene-level deduplication,Exploratory/sensitivity intersection only,Bilobalide_targets_extended_171_gene_symbols.txt

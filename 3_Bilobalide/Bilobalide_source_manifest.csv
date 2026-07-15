@@ -1,0 +1,9 @@
+﻿Source,Input_File,Selection_Criterion,Unique_Genes,Role,SHA256
+SwissTargetPrediction,1_SwissTargetPrediction/SwissTargetPrediction_Bilobalide_strict_probability_ge_0.5.csv,Probability ≥ 0.5,4,Strict and extended,c2a499dc2e6b763486b39e2c1d15f795c2598f66ad81749f40060ae4a646f20c
+SuperPred,1_Super-PRED/SuperPred_Bilobalide_strict_probability_gt80_model_accuracy_gt85.csv,Probability > 80% and model accuracy > 85%,9,Strict and extended,1a7ed6d4fd0762dd1f10f0c7d2a6d51fbf21db2d7f7f9534e00961a8c22df4cf
+PharmMapper strict,1_PharmMapper/PharmMapper_Bilobalide_strict_human_deduplicated.csv,Norm-Fit ≥ 0.9 and z-score ≥ 1,3,Strict,42d4d495bdc5f388aeea8d7e78f83b103f78d0dd5c79dd858544b50d821adaad
+PharmMapper selected,1_PharmMapper/PharmMapper_Bilobalide_selected_main_set.csv,Norm-Fit ≥ 0.7 and z-score ≥ 0,23,Extended/source-repeat audit,d9b866bd2d6fe4a6c3ec0ce9127e1620060103c043c84a8d92dc350954df7211
+PPB3,1_PPB3/PPB3_Bilobalide_reliable_human_confidence_gt0.2.csv,Human single protein; confidence > 0.2,9,Strict and extended,e6dce43e685673ad5e03fc75a380b92c5c1f47e6da2350e2f3ab72821bc2992a
+COMET,1_COMET/Bilobalide_AIS_0714/result.csv,All returned human records; low probabilities,2,Corroboration/source-repeat audit,0aa9adc19eb5552a65e20f9eabb62a99f1a6334b5505589430032b30edf54054
+PASSTargets,1_PASSTargets/PASSTargets_Bilobalide_human_all_gene_level.csv,All human gene-level prediction-only records,98,Extended,b08c4c2e4a385d5edb9010764ca75d660e2e689a148fb72cbc9d7b806afa7eb5
+NetInfer,1_NetInfer/NetInfer_Bilobalide_predicted_gene_level.csv,All 50 predicted targets; known GLRA2 excluded upstream,50,Extended,bef5f700e4e36d106aa81167d2bec9a522ba7d59c750b166612b05f03a0acf7b

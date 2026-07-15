@@ -1,0 +1,5 @@
+﻿Tier,Count,Definition,Recommended_Use,Gene_List_File
+Strict_28,28,GeneCards score≥5 protein-coding + OMIM ultra-strict direct + DisGeNET exact AIS raw GDA≥0.30; union and deduplication,Strict sensitivity analysis,AIS_targets_strict_28_gene_symbols.txt
+Primary_81,81,GeneCards score≥3 protein-coding + OMIM primary + DisGeNET exact AIS raw GDA≥0.30; union and deduplication,Primary AIS disease target set,AIS_targets_primary_81_gene_symbols.txt
+MediumExtended_176,176,GeneCards main + OMIM primary/extended + DisGeNET conservative EI≥0.80 sensitivity set,Intermediate sensitivity analysis,AIS_targets_medium_extended_176_gene_symbols.txt
+BroadSensitivity_430,430,GeneCards score≥0.9 protein-coding + OMIM primary/extended + DisGeNET human-literature sensitivity set,Broad exploratory/PPI sensitivity analysis only,AIS_targets_broad_sensitivity_430_gene_symbols.txt

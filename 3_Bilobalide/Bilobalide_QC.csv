@@ -1,0 +1,8 @@
+﻿Check,Expected,Observed,Status
+Strict target count,25,25,PASS
+Cross-priority target count,22,22,PASS
+Recommended target count,42,42,PASS
+Extended target count,171,171,PASS
+Duplicate Gene Symbols in master,0,0,PASS
+Format-invalid Gene Symbols,0,0,PASS
+Cross-supported genes excluding COMET,21,21,PASS

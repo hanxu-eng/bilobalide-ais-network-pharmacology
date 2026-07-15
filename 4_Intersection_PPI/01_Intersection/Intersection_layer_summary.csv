@@ -1,0 +1,5 @@
+﻿Layer,Drug_Input_Set,Drug_Input_Count,Disease_Input_Set,Disease_Input_Count,Intersection_Count,Intersection_Genes,New_Genes_At_Level,Analysis_Use
+L1_Strict,Bilobalide Strict_25,25,AIS Strict_28,28,1,NFKB1,NFKB1,最高特异性敏感性分析；NFKB1为最高置信度重叠靶点。
+L2_Primary,Bilobalide Recommended_42,42,AIS Primary_81,81,2,HIF1A;NFKB1,HIF1A,预设主分析交集；HIF1A与NFKB1定义为主分析锚定靶点。
+L3_MediumExtended,Bilobalide Extended_171,171,AIS MediumExtended_176,176,6,F2;HIF1A;NFE2L2;NFKB1;SIRT1;TNF,F2;NFE2L2;SIRT1;TNF,中等扩展敏感性分析；可作为后续PPI输入候选，但不是Hub基因。
+L4_BroadExploratory,Bilobalide Extended_171,171,AIS BroadSensitivity_430,430,16,CTNNB1;F2;F2R;HIF1A;IL2;MIF;MYLK;NFE2L2;NFKB1;RELA;SIRT1;SIRT6;SLC5A2;SLCO1B1;SRC;TNF,CTNNB1;F2R;IL2;MIF;MYLK;RELA;SIRT6;SLC5A2;SLCO1B1;SRC,宽口径探索性敏感性分析；不得称为最终核心靶点。
