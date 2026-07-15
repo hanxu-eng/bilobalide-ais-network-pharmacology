@@ -13,7 +13,7 @@
         ↓
 多平台药物靶点预测（阶段1）
         ↓
-AIS疾病相关基因检索（阶段2）
+AIS疾病相关基因检索及补充证据（阶段2）
         ↓
 人源限定、ID标准化、全局去重与证据分层（阶段3）
         ↓
@@ -30,9 +30,9 @@ GO / KEGG等功能富集（尚未执行）
 |---|---|---|
 | 阶段0 | 化合物结构与参考数据整理 | 已完成 |
 | 阶段1 | 白果内酯人源作用靶点预测 | 已整理；SEA暂无结果 |
-| 阶段2 | AIS疾病相关基因检索与筛选 | 已完成 |
+| 阶段2 | AIS疾病相关基因检索、遗传学与急性期转录组补充 | 已完成；补充模块尚未并入冻结主集合 |
 | 阶段3 | 药物和疾病靶点标准化、去重及分层 | 已完成 |
-| 阶段4 | 输入冻结与四层交集计算 | 已完成 |
+| 阶段4 | 输入冻结与四层交集计算 | 已完成（补充模块加入前的冻结版本） |
 | 阶段4后续 | Venny、STRING、Cytoscape、cytoHubba | 尚未执行 |
 | 后续分析 | GO、KEGG等功能富集 | 尚未执行，当前无结果目录 |
 
@@ -101,6 +101,25 @@ GO / KEGG等功能富集（尚未执行）
 
 保存OMIM MIM Match原始导出、表型筛选、人工核实的基因–表型联系、严格/主分析/扩展集合及排除审计记录。全文检索中的基因条目不能直接等同于AIS相关基因，因此只有经过表型关系核实的记录进入阶段3。
 
+#### `2_OpenTargets/`
+
+保存 Open Targets Platform 对 `MONDO_1060198`（ischemic stroke）的直接人类遗传学证据。当前纳入 GWAS credible sets（265 个蛋白编码基因）与 EVA（8 个蛋白编码基因）；二者去重后得到 270 个基因。原始 JSON、来源分表、去重 Gene Symbol 列表、证据主表、质量控制和来源清单均保留在目录中。
+
+该模块用于补充“人类遗传学关联”证据：GWAS 的候选基因归因分数和 EVA 的临床变异证据不能直接与 GeneCards/DisGeNET 的相关性分数相加，也尚未写入 `3_AIS` 的冻结主集合。
+
+#### `2_GEO/`
+
+保存两个独立外周血急性期转录组队列的原始矩阵、平台注释、差异表达结果、复现基因集和处理说明。
+
+| 队列 | 主比较 | 统计处理 | 结果定位 |
+|---|---|---|---|
+| GSE16561 | 39例AIS vs 24例对照 | limma；校正年龄和性别 | 混合病因、发病≤24 h的跨队列复核 |
+| GSE58294 | 23例≤3 h心源性AIS vs 23例血管危险因素对照 | limma | 治疗前早期AIS的时间特异性主队列 |
+
+两个队列分别分析，仅在 Gene Symbol 层面按方向一致性复现：扩展复现集为144个基因（FDR<0.05、|log2FC|≥0.5），严格复现集为4个基因（`ARG1`、`FOLR3`、`LY96`、`MMP9`；FDR<0.05、|log2FC|≥1）。GSE58294 的5 h和24 h样本为同一患者的重复采样，未作为独立病例进入主比较；其对照为血管危险因素对照，而非健康对照。
+
+该模块反映疾病状态相关的转录改变，不能等同于致病基因或药物直接靶点；当前也未并入 `3_AIS` 的冻结主集合。
+
 ### 阶段3：多数据库标准化与证据分层
 
 #### `3_Bilobalide/`
@@ -129,11 +148,13 @@ GO / KEGG等功能富集（尚未执行）
 
 其中，`AIS_target_master_evidence.csv`保存来源和关键证据，`AIS_source_manifest.csv`记录输入构成，`AIS_QC.csv`保存质量控制结果。疾病集合成员表示数据库关联，不表示已经确认的致病作用或治疗可行性。
 
+该目录及其四层集合是在补充 `2_OpenTargets` 和 `2_GEO` 前冻结的版本，因此当前数量仍为28/81/176/430。新增加的遗传学和转录组证据以独立模块保留，后续需预先定义整合规则并重新执行阶段4，不能直接覆盖或静默追加到既有结果。
+
 ### 阶段4：药物–疾病交集与PPI准备
 
 #### `4_Intersection_PPI/00_Input/`
 
-保存阶段3靶点集合的冻结副本和两张证据主表。`Input_manifest.csv`记录输入来源、预期与实际数量、SHA-256校验值及一致性检查结果，用于确认下游分析使用的具体版本。
+保存阶段3靶点集合的冻结副本和两张证据主表。`Input_manifest.csv`记录输入来源、预期与实际数量、SHA-256校验值及一致性检查结果，用于确认下游分析使用的具体版本。该冻结版本不包含后续补充的Open Targets和GEO模块。
 
 #### `4_Intersection_PPI/01_Intersection/`
 
@@ -189,10 +210,11 @@ GO / KEGG等功能富集（尚未执行）
 
 1. 阅读`3_Bilobalide/Bilobalide_target_processing_notes.md`，了解药物靶点来源和分层规则。
 2. 阅读`3_AIS/AIS_target_processing_notes.md`，了解疾病靶点来源和分层规则。
-3. 查看两个阶段3目录中的`source_manifest`、`master_evidence`和`QC`文件，核对来源与数据质量。
-4. 查看`4_Intersection_PPI/00_Input/Input_manifest.csv`，确认冻结输入及校验结果。
-5. 查看`4_Intersection_PPI/01_Intersection/Intersection_processing_notes.md`、`Intersection_layer_summary.csv`和`Intersection_evidence_master.csv`，了解交集定义和证据构成。
-6. 如需追溯单个平台或数据库的处理过程，再进入对应的阶段1或阶段2目录查看原始数据和`processing_notes.md`。
+3. 阅读`2_OpenTargets/OpenTargets_processing_notes.md`与`2_GEO/GEO_processing_notes.md`，明确补充证据的适用范围和限制。
+4. 查看两个阶段3目录中的`source_manifest`、`master_evidence`和`QC`文件，核对来源与数据质量。
+5. 查看`4_Intersection_PPI/00_Input/Input_manifest.csv`，确认冻结输入及校验结果。
+6. 查看`4_Intersection_PPI/01_Intersection/Intersection_processing_notes.md`、`Intersection_layer_summary.csv`和`Intersection_evidence_master.csv`，了解当前冻结版交集定义和证据构成。
+7. 如需追溯单个平台或数据库的处理过程，再进入对应的阶段1或阶段2目录查看原始数据和`processing_notes.md`。
 
 ## 使用边界
 
@@ -202,4 +224,4 @@ GO / KEGG等功能富集（尚未执行）
 - STRING补充的网络邻居不属于原始药物–疾病交集靶点，后续应单独标记。
 - 各数据库原始导出及衍生结果的使用应遵守对应平台的使用条款。
 
-当前仓库未包含一键运行脚本。结果复核应以冻结输入、处理说明、证据主表、来源清单和质量控制文件为主要入口。
+`scripts/`中提供Open Targets整理与GEO差异分析脚本，用于复现新增模块的派生文件；其余阶段仍以冻结输入、处理说明、证据主表、来源清单和质量控制文件为主要复核入口。
