@@ -1,0 +1,5 @@
+"Dataset","Contrast","Samples_AIS","Samples_Control","Extended_DEG_n","Strict_DEG_n"
+"GSE16561","AIS vs Control",39,24,532,20
+"GSE58294","AIS <3h vs Control",23,23,1647,142
+"Replicated_extended","same direction",NA,NA,144,NA
+"Replicated_strict","same direction",NA,NA,NA,4

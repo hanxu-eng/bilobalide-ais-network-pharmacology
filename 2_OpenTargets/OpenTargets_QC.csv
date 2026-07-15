@@ -1,0 +1,9 @@
+Check,Value
+Disease_ID,MONDO_1060198
+Disease_Name,ischemic stroke
+GWAS_rows_protein_coding,265
+GWAS_unique_genes,265
+EVA_rows_protein_coding,8
+EVA_unique_genes,8
+Evidence_class_rule,GWAS and EVA are grouped under one Human_Genetics class
+Indirect_associations,excluded; direct association query only

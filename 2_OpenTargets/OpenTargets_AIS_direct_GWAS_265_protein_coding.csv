@@ -1,0 +1,266 @@
+Disease_ID,Disease_Name,Evidence_Class,Source_Database,Gene_Symbol,Ensembl_ID,Target_Name,Overall_Association_Score,Source_Score,Direct_Association,Species,Retrieval_Date
+MONDO_1060198,ischemic stroke,Human_Genetics,gwas_credible_sets,F2,ENSG00000180210,"coagulation factor II, thrombin",0.6762052247063238,0.5439188314878017,True,Homo sapiens,2026-07-15
+MONDO_1060198,ischemic stroke,Human_Genetics,gwas_credible_sets,F5,ENSG00000198734,coagulation factor V,0.6713915526669039,0.5630281293088261,True,Homo sapiens,2026-07-15
+MONDO_1060198,ischemic stroke,Human_Genetics,gwas_credible_sets,SH2B3,ENSG00000111252,SH2B adaptor protein 3,0.5769956330052645,0.9310289063449296,True,Homo sapiens,2026-07-15
+MONDO_1060198,ischemic stroke,Human_Genetics,gwas_credible_sets,NLRP3,ENSG00000162711,NLR family pyrin domain containing 3,0.5735761152458392,0.35374217658233076,True,Homo sapiens,2026-07-15
+MONDO_1060198,ischemic stroke,Human_Genetics,gwas_credible_sets,VWF,ENSG00000110799,von Willebrand factor,0.5642519778104502,0.6498832440373213,True,Homo sapiens,2026-07-15
+MONDO_1060198,ischemic stroke,Human_Genetics,gwas_credible_sets,F11,ENSG00000088926,coagulation factor XI,0.5555852209229372,0.7768807390856127,True,Homo sapiens,2026-07-15
+MONDO_1060198,ischemic stroke,Human_Genetics,gwas_credible_sets,ABO,ENSG00000175164,"ABO, alpha 1-3-N-acetylgalactosaminyltransferase and alpha 1-3-galactosyltransferase",0.5537387667783089,0.8138131870899978,True,Homo sapiens,2026-07-15
+MONDO_1060198,ischemic stroke,Human_Genetics,gwas_credible_sets,PDE3A,ENSG00000172572,phosphodiesterase 3A,0.5195313395625717,0.6349797462597956,True,Homo sapiens,2026-07-15
+MONDO_1060198,ischemic stroke,Human_Genetics,gwas_credible_sets,SERPINE1,ENSG00000106366,serpin family E member 1,0.5145756155114828,0.4700401563340183,True,Homo sapiens,2026-07-15
+MONDO_1060198,ischemic stroke,Human_Genetics,gwas_credible_sets,PROCR,ENSG00000101000,protein C receptor,0.5030551286563123,0.7929861746638032,True,Homo sapiens,2026-07-15
+MONDO_1060198,ischemic stroke,Human_Genetics,gwas_credible_sets,ALDH2,ENSG00000111275,aldehyde dehydrogenase 2 family member,0.48993489573652577,0.6914120227260947,True,Homo sapiens,2026-07-15
+MONDO_1060198,ischemic stroke,Human_Genetics,gwas_credible_sets,PITX2,ENSG00000164093,paired like homeodomain 2,0.47572672994902326,0.7580823375249873,True,Homo sapiens,2026-07-15
+MONDO_1060198,ischemic stroke,Human_Genetics,gwas_credible_sets,COL4A2,ENSG00000134871,collagen type IV alpha 2 chain,0.4552393546764882,0.7153979768379412,True,Homo sapiens,2026-07-15
+MONDO_1060198,ischemic stroke,Human_Genetics,gwas_credible_sets,FOXF2,ENSG00000137273,forkhead box F2,0.4523417865295523,0.6973619189030349,True,Homo sapiens,2026-07-15
+MONDO_1060198,ischemic stroke,Human_Genetics,gwas_credible_sets,MMP12,ENSG00000262406,matrix metallopeptidase 12,0.4480167678508534,0.628056591775066,True,Homo sapiens,2026-07-15
+MONDO_1060198,ischemic stroke,Human_Genetics,gwas_credible_sets,FGF5,ENSG00000138675,fibroblast growth factor 5,0.4467502288407582,0.6977475846349708,True,Homo sapiens,2026-07-15
+MONDO_1060198,ischemic stroke,Human_Genetics,gwas_credible_sets,SH3PXD2A,ENSG00000107957,SH3 and PX domains 2A,0.4464557818972715,0.7343858604486945,True,Homo sapiens,2026-07-15
+MONDO_1060198,ischemic stroke,Human_Genetics,gwas_credible_sets,GRK5,ENSG00000198873,G protein-coupled receptor kinase 5,0.44601045535079636,0.7290938511126818,True,Homo sapiens,2026-07-15
+MONDO_1060198,ischemic stroke,Human_Genetics,gwas_credible_sets,LDLR,ENSG00000130164,low density lipoprotein receptor,0.4362427825129282,0.5835654319193863,True,Homo sapiens,2026-07-15
+MONDO_1060198,ischemic stroke,Human_Genetics,gwas_credible_sets,FGA,ENSG00000171560,fibrinogen alpha chain,0.4264988504362474,0.622157109242237,True,Homo sapiens,2026-07-15
+MONDO_1060198,ischemic stroke,Human_Genetics,gwas_credible_sets,HECTD4,ENSG00000173064,HECT domain E3 ubiquitin protein ligase 4,0.42424207433715444,0.6727688528665392,True,Homo sapiens,2026-07-15
+MONDO_1060198,ischemic stroke,Human_Genetics,gwas_credible_sets,IL1RN,ENSG00000136689,interleukin 1 receptor antagonist,0.42113522935414405,0.5876273951486529,True,Homo sapiens,2026-07-15
+MONDO_1060198,ischemic stroke,Human_Genetics,gwas_credible_sets,CASZ1,ENSG00000130940,castor zinc finger 1,0.403252538615371,0.6466439262884178,True,Homo sapiens,2026-07-15
+MONDO_1060198,ischemic stroke,Human_Genetics,gwas_credible_sets,CXCL8,ENSG00000169429,C-X-C motif chemokine ligand 8,0.3951970261755561,0.5407345645211181,True,Homo sapiens,2026-07-15
+MONDO_1060198,ischemic stroke,Human_Genetics,gwas_credible_sets,FURIN,ENSG00000140564,"furin, paired basic amino acid cleaving enzyme",0.39440595063231776,0.6293056113161075,True,Homo sapiens,2026-07-15
+MONDO_1060198,ischemic stroke,Human_Genetics,gwas_credible_sets,NOS3,ENSG00000164867,nitric oxide synthase 3,0.39238492026469834,0.40906381915900153,True,Homo sapiens,2026-07-15
+MONDO_1060198,ischemic stroke,Human_Genetics,gwas_credible_sets,SWAP70,ENSG00000133789,switching B cell complex subunit SWAP70,0.3913197446838919,0.6288412896288504,True,Homo sapiens,2026-07-15
+MONDO_1060198,ischemic stroke,Human_Genetics,gwas_credible_sets,IL6R,ENSG00000160712,interleukin 6 receptor,0.3847362586644674,0.4096277159981691,True,Homo sapiens,2026-07-15
+MONDO_1060198,ischemic stroke,Human_Genetics,gwas_credible_sets,FGB,ENSG00000171564,fibrinogen beta chain,0.38108707136191394,0.5354853905463814,True,Homo sapiens,2026-07-15
+MONDO_1060198,ischemic stroke,Human_Genetics,gwas_credible_sets,CDKN2B,ENSG00000147883,cyclin dependent kinase inhibitor 2B,0.38074960943756453,0.5713835896709125,True,Homo sapiens,2026-07-15
+MONDO_1060198,ischemic stroke,Human_Genetics,gwas_credible_sets,CUX2,ENSG00000111249,cut like homeobox 2,0.38027718533165095,0.6186878727712252,True,Homo sapiens,2026-07-15
+MONDO_1060198,ischemic stroke,Human_Genetics,gwas_credible_sets,COL4A1,ENSG00000187498,collagen type IV alpha 1 chain,0.37862984417067597,0.5802313397189506,True,Homo sapiens,2026-07-15
+MONDO_1060198,ischemic stroke,Human_Genetics,gwas_credible_sets,CPS1,ENSG00000021826,carbamoyl-phosphate synthase 1,0.3753776400649033,0.5931504824137604,True,Homo sapiens,2026-07-15
+MONDO_1060198,ischemic stroke,Human_Genetics,gwas_credible_sets,STXBP5,ENSG00000164506,syntaxin binding protein 5,0.36613799461260216,0.6022691991441282,True,Homo sapiens,2026-07-15
+MONDO_1060198,ischemic stroke,Human_Genetics,gwas_credible_sets,LAMC1,ENSG00000135862,laminin subunit gamma 1,0.3653247927001502,0.5680019588764589,True,Homo sapiens,2026-07-15
+MONDO_1060198,ischemic stroke,Human_Genetics,gwas_credible_sets,ZNF475,ENSG00000250803,zinc finger protein 475,0.36377277995870805,0.5983786006365575,True,Homo sapiens,2026-07-15
+MONDO_1060198,ischemic stroke,Human_Genetics,gwas_credible_sets,PDE4B,ENSG00000184588,phosphodiesterase 4B,0.36237361037604093,0.16982654488398297,True,Homo sapiens,2026-07-15
+MONDO_1060198,ischemic stroke,Human_Genetics,gwas_credible_sets,HTRA1,ENSG00000166033,HtrA serine peptidase 1,0.362346314619579,0.5251676007917639,True,Homo sapiens,2026-07-15
+MONDO_1060198,ischemic stroke,Human_Genetics,gwas_credible_sets,TSKU,ENSG00000182704,"tsukushi, small leucine rich proteoglycan",0.36036030572423466,0.5882058586585149,True,Homo sapiens,2026-07-15
+MONDO_1060198,ischemic stroke,Human_Genetics,gwas_credible_sets,KNG1,ENSG00000113889,kininogen 1,0.35563674907744663,0.5397737440232793,True,Homo sapiens,2026-07-15
+MONDO_1060198,ischemic stroke,Human_Genetics,gwas_credible_sets,HDAC9,ENSG00000048052,histone deacetylase 9,0.35496379600285755,0.486028026713383,True,Homo sapiens,2026-07-15
+MONDO_1060198,ischemic stroke,Human_Genetics,gwas_credible_sets,SCARA5,ENSG00000168079,scavenger receptor class A member 5,0.354763266906305,0.5730621195210301,True,Homo sapiens,2026-07-15
+MONDO_1060198,ischemic stroke,Human_Genetics,gwas_credible_sets,COL6A3,ENSG00000163359,collagen type VI alpha 3 chain,0.3541106846888353,0.5483735150578279,True,Homo sapiens,2026-07-15
+MONDO_1060198,ischemic stroke,Human_Genetics,gwas_credible_sets,MARCHF1,ENSG00000145416,membrane associated ring-CH-type finger 1,0.34461057077689716,0.5668582215784582,True,Homo sapiens,2026-07-15
+MONDO_1060198,ischemic stroke,Human_Genetics,gwas_credible_sets,PTPN11,ENSG00000179295,protein tyrosine phosphatase non-receptor type 11,0.34209079259279557,0.5475151078598939,True,Homo sapiens,2026-07-15
+MONDO_1060198,ischemic stroke,Human_Genetics,gwas_credible_sets,HNF4A,ENSG00000101076,hepatocyte nuclear factor 4 alpha,0.33754727849586635,0.5476405071437088,True,Homo sapiens,2026-07-15
+MONDO_1060198,ischemic stroke,Human_Genetics,gwas_credible_sets,CLEC4M,ENSG00000104938,C-type lectin domain family 4 member M,0.33717904274287364,0.554633922261464,True,Homo sapiens,2026-07-15
+MONDO_1060198,ischemic stroke,Human_Genetics,gwas_credible_sets,ZFHX3,ENSG00000140836,zinc finger homeobox 3,0.333140465563914,0.5118696919462976,True,Homo sapiens,2026-07-15
+MONDO_1060198,ischemic stroke,Human_Genetics,gwas_credible_sets,PLEKHA1,ENSG00000107679,pleckstrin homology domain containing A1,0.32761185660372555,0.5388966275286841,True,Homo sapiens,2026-07-15
+MONDO_1060198,ischemic stroke,Human_Genetics,gwas_credible_sets,FES,ENSG00000182511,"FES proto-oncogene, tyrosine kinase",0.3198363717219128,0.5185074103446415,True,Homo sapiens,2026-07-15
+MONDO_1060198,ischemic stroke,Human_Genetics,gwas_credible_sets,HABP2,ENSG00000148702,hyaluronan binding protein 2,0.31977561232646096,0.44359708335088055,True,Homo sapiens,2026-07-15
+MONDO_1060198,ischemic stroke,Human_Genetics,gwas_credible_sets,ABCC1,ENSG00000103222,ATP binding cassette subfamily C member 1 (ABCC1 blood group),0.3197533114977921,0.5107716476128382,True,Homo sapiens,2026-07-15
+MONDO_1060198,ischemic stroke,Human_Genetics,gwas_credible_sets,ADGRL3,ENSG00000150471,adhesion G protein-coupled receptor L3,0.31948396687689495,0.5103285961636349,True,Homo sapiens,2026-07-15
+MONDO_1060198,ischemic stroke,Human_Genetics,gwas_credible_sets,TRAFD1,ENSG00000135148,TRAF-type zinc finger domain containing 1,0.3192360473462313,0.5251190573012826,True,Homo sapiens,2026-07-15
+MONDO_1060198,ischemic stroke,Human_Genetics,gwas_credible_sets,CALHM1,ENSG00000185933,calcium homeostasis modulator 1,0.3152228999900108,0.5185177346310265,True,Homo sapiens,2026-07-15
+MONDO_1060198,ischemic stroke,Human_Genetics,gwas_credible_sets,HGFAC,ENSG00000109758,HGF activator,0.3078362075397143,0.5063671864447582,True,Homo sapiens,2026-07-15
+MONDO_1060198,ischemic stroke,Human_Genetics,gwas_credible_sets,TSPAN2,ENSG00000134198,tetraspanin 2,0.30701606485651883,0.49936098019577135,True,Homo sapiens,2026-07-15
+MONDO_1060198,ischemic stroke,Human_Genetics,gwas_credible_sets,PLCB2,ENSG00000137841,phospholipase C beta 2,0.3063476417907567,0.5039186088191374,True,Homo sapiens,2026-07-15
+MONDO_1060198,ischemic stroke,Human_Genetics,gwas_credible_sets,TC2N,ENSG00000165929,"tandem C2 domains, nuclear",0.3034433591242233,0.49914128436388133,True,Homo sapiens,2026-07-15
+MONDO_1060198,ischemic stroke,Human_Genetics,gwas_credible_sets,TGFBR3,ENSG00000069702,transforming growth factor beta receptor 3,0.30304266103319694,0.49240285845427556,True,Homo sapiens,2026-07-15
+MONDO_1060198,ischemic stroke,Human_Genetics,gwas_credible_sets,KCNK3,ENSG00000171303,potassium two pore domain channel subfamily K member 3,0.3025145534861841,0.48735463740670376,True,Homo sapiens,2026-07-15
+MONDO_1060198,ischemic stroke,Human_Genetics,gwas_credible_sets,WNT2B,ENSG00000134245,Wnt family member 2B,0.29972756382649174,0.47099159183755407,True,Homo sapiens,2026-07-15
+MONDO_1060198,ischemic stroke,Human_Genetics,gwas_credible_sets,TTC17,ENSG00000052841,tetratricopeptide repeat domain 17,0.2978390657032839,0.48992264723781853,True,Homo sapiens,2026-07-15
+MONDO_1060198,ischemic stroke,Human_Genetics,gwas_credible_sets,MS4A6A,ENSG00000110077,membrane spanning 4-domains A6A,0.2976384973623015,0.4895927275466788,True,Homo sapiens,2026-07-15
+MONDO_1060198,ischemic stroke,Human_Genetics,gwas_credible_sets,CCDC63,ENSG00000173093,coiled-coil domain containing 63,0.29688199102029855,0.48834833205795697,True,Homo sapiens,2026-07-15
+MONDO_1060198,ischemic stroke,Human_Genetics,gwas_credible_sets,PIK3CG,ENSG00000105851,"phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit gamma",0.29677507967562333,0.4107035117350954,True,Homo sapiens,2026-07-15
+MONDO_1060198,ischemic stroke,Human_Genetics,gwas_credible_sets,PRDM16,ENSG00000142611,PR/SET domain 16,0.29384027725760714,0.48334494388509025,True,Homo sapiens,2026-07-15
+MONDO_1060198,ischemic stroke,Human_Genetics,gwas_credible_sets,SNX13,ENSG00000071189,sorting nexin 13,0.2901898282648009,0.47734023248183877,True,Homo sapiens,2026-07-15
+MONDO_1060198,ischemic stroke,Human_Genetics,gwas_credible_sets,TMOD4,ENSG00000163157,tropomodulin 4,0.2867221401820521,0.47163614889802913,True,Homo sapiens,2026-07-15
+MONDO_1060198,ischemic stroke,Human_Genetics,gwas_credible_sets,MPO,ENSG00000005381,myeloperoxidase,0.28638584700340103,0.04168169930481895,True,Homo sapiens,2026-07-15
+MONDO_1060198,ischemic stroke,Human_Genetics,gwas_credible_sets,GCKR,ENSG00000084734,glucokinase regulator,0.28561866300433947,0.44170421334159915,True,Homo sapiens,2026-07-15
+MONDO_1060198,ischemic stroke,Human_Genetics,gwas_credible_sets,CDKN1A,ENSG00000124762,cyclin dependent kinase inhibitor 1A,0.28530896814084294,0.4550562701014293,True,Homo sapiens,2026-07-15
+MONDO_1060198,ischemic stroke,Human_Genetics,gwas_credible_sets,VPS33B,ENSG00000184056,VPS33B late endosome and lysosome associated,0.28489124880875966,0.468624471614224,True,Homo sapiens,2026-07-15
+MONDO_1060198,ischemic stroke,Human_Genetics,gwas_credible_sets,IL1F10,ENSG00000136697,interleukin 1 family member 10,0.2825526242503666,0.418545344832048,True,Homo sapiens,2026-07-15
+MONDO_1060198,ischemic stroke,Human_Genetics,gwas_credible_sets,PMF1,ENSG00000160783,polyamine modulated factor 1,0.28228118734814817,0.4590117242224789,True,Homo sapiens,2026-07-15
+MONDO_1060198,ischemic stroke,Human_Genetics,gwas_credible_sets,LRCH1,ENSG00000136141,leucine rich repeats and calponin homology domain containing 1,0.2792259644458468,0.4481601110636333,True,Homo sapiens,2026-07-15
+MONDO_1060198,ischemic stroke,Human_Genetics,gwas_credible_sets,PIGU,ENSG00000101464,phosphatidylinositol glycan anchor biosynthesis class U,0.27918090934177464,0.45923139679482144,True,Homo sapiens,2026-07-15
+MONDO_1060198,ischemic stroke,Human_Genetics,gwas_credible_sets,IL1R1,ENSG00000115594,interleukin 1 receptor type 1,0.27846837809098146,0.4428562848044249,True,Homo sapiens,2026-07-15
+MONDO_1060198,ischemic stroke,Human_Genetics,gwas_credible_sets,DHODH,ENSG00000102967,dihydroorotate dehydrogenase (quinone),0.2710219723990536,0.44581056505743444,True,Homo sapiens,2026-07-15
+MONDO_1060198,ischemic stroke,Human_Genetics,gwas_credible_sets,ZCCHC14,ENSG00000140948,zinc finger CCHC-type containing 14,0.2708700756812901,0.4455607064907024,True,Homo sapiens,2026-07-15
+MONDO_1060198,ischemic stroke,Human_Genetics,gwas_credible_sets,HDLBP,ENSG00000115677,high density lipoprotein binding protein,0.26884631286183647,0.4376722893412021,True,Homo sapiens,2026-07-15
+MONDO_1060198,ischemic stroke,Human_Genetics,gwas_credible_sets,SLC44A2,ENSG00000129353,solute carrier family 44 member 2 (CTL2 blood group),0.267483814581926,0.4399905641115571,True,Homo sapiens,2026-07-15
+MONDO_1060198,ischemic stroke,Human_Genetics,gwas_credible_sets,RAPGEF6,ENSG00000158987,Rap guanine nucleotide exchange factor 6,0.2642804265532808,0.4347212340476249,True,Homo sapiens,2026-07-15
+MONDO_1060198,ischemic stroke,Human_Genetics,gwas_credible_sets,BGLAP,ENSG00000242252,bone gamma-carboxyglutamate protein,0.26367213866664085,0.4138151347831576,True,Homo sapiens,2026-07-15
+MONDO_1060198,ischemic stroke,Human_Genetics,gwas_credible_sets,GYS2,ENSG00000111713,glycogen synthase 2,0.2633461904060453,0.4331844865248709,True,Homo sapiens,2026-07-15
+MONDO_1060198,ischemic stroke,Human_Genetics,gwas_credible_sets,ZFP36L1,ENSG00000185650,ZFP36 like 1 zinc finger CCCH-type,0.26253353933287377,0.4166494672763298,True,Homo sapiens,2026-07-15
+MONDO_1060198,ischemic stroke,Human_Genetics,gwas_credible_sets,CDK6,ENSG00000105810,cyclin dependent kinase 6,0.25913052690424904,0.41409142422058925,True,Homo sapiens,2026-07-15
+MONDO_1060198,ischemic stroke,Human_Genetics,gwas_credible_sets,ADH4,ENSG00000198099,"alcohol dehydrogenase 4 (class II), pi polypeptide",0.2582896620413935,0.4248668813229015,True,Homo sapiens,2026-07-15
+MONDO_1060198,ischemic stroke,Human_Genetics,gwas_credible_sets,MYL2,ENSG00000111245,myosin light chain 2,0.2571632574055091,0.4184545502461824,True,Homo sapiens,2026-07-15
+MONDO_1060198,ischemic stroke,Human_Genetics,gwas_credible_sets,FGG,ENSG00000171557,fibrinogen gamma chain,0.2544729785785468,0.3339121199371554,True,Homo sapiens,2026-07-15
+MONDO_1060198,ischemic stroke,Human_Genetics,gwas_credible_sets,MMP3,ENSG00000149968,matrix metallopeptidase 3,0.24984828208177026,0.114318905489715,True,Homo sapiens,2026-07-15
+MONDO_1060198,ischemic stroke,Human_Genetics,gwas_credible_sets,CUX1,ENSG00000257923,cut like homeobox 1,0.24069749974373955,0.38832997520056545,True,Homo sapiens,2026-07-15
+MONDO_1060198,ischemic stroke,Human_Genetics,gwas_credible_sets,STAB2,ENSG00000136011,stabilin 2,0.23972447396187582,0.39128890265635247,True,Homo sapiens,2026-07-15
+MONDO_1060198,ischemic stroke,Human_Genetics,gwas_credible_sets,STX2,ENSG00000111450,syntaxin 2,0.23726353315814216,0.39028049588913716,True,Homo sapiens,2026-07-15
+MONDO_1060198,ischemic stroke,Human_Genetics,gwas_credible_sets,CALCRL,ENSG00000064989,calcitonin receptor like receptor,0.23716734656002253,0.37783700803724224,True,Homo sapiens,2026-07-15
+MONDO_1060198,ischemic stroke,Human_Genetics,gwas_credible_sets,FAF1,ENSG00000185104,Fas associated factor 1,0.23577465900772113,0.38783141096652696,True,Homo sapiens,2026-07-15
+MONDO_1060198,ischemic stroke,Human_Genetics,gwas_credible_sets,MS4A4E,ENSG00000214787,membrane spanning 4-domains A4E,0.23304727280466855,0.38334506776139954,True,Homo sapiens,2026-07-15
+MONDO_1060198,ischemic stroke,Human_Genetics,gwas_credible_sets,TWIST1,ENSG00000122691,twist family bHLH transcription factor 1,0.22728718431382772,0.33670279043637136,True,Homo sapiens,2026-07-15
+MONDO_1060198,ischemic stroke,Human_Genetics,gwas_credible_sets,PPP1R3B,ENSG00000173281,protein phosphatase 1 regulatory subunit 3B,0.2266876134142681,0.3478067655713751,True,Homo sapiens,2026-07-15
+MONDO_1060198,ischemic stroke,Human_Genetics,gwas_credible_sets,CFAP77,ENSG00000188523,cilia and flagella associated protein 77,0.22263404714124208,0.3662161022535869,True,Homo sapiens,2026-07-15
+MONDO_1060198,ischemic stroke,Human_Genetics,gwas_credible_sets,IL36RN,ENSG00000136695,interleukin 36 receptor antagonist,0.21907553482753242,0.36036261970641215,True,Homo sapiens,2026-07-15
+MONDO_1060198,ischemic stroke,Human_Genetics,gwas_credible_sets,PLSCR5,ENSG00000231213,phospholipid scramblase family member 5,0.21861097208032537,0.35959844926294693,True,Homo sapiens,2026-07-15
+MONDO_1060198,ischemic stroke,Human_Genetics,gwas_credible_sets,CENPQ,ENSG00000031691,centromere protein Q,0.21777447981174164,0.3536630020164921,True,Homo sapiens,2026-07-15
+MONDO_1060198,ischemic stroke,Human_Genetics,gwas_credible_sets,CHD9,ENSG00000177200,chromodomain helicase DNA binding protein 9,0.21671176978289766,0.35647440569599964,True,Homo sapiens,2026-07-15
+MONDO_1060198,ischemic stroke,Human_Genetics,gwas_credible_sets,ATXN2,ENSG00000204842,ataxin 2,0.21216700886443912,0.3489986190829286,True,Homo sapiens,2026-07-15
+MONDO_1060198,ischemic stroke,Human_Genetics,gwas_credible_sets,ZNF77,ENSG00000175691,zinc finger protein 77,0.20761434515848184,0.3415098329845054,True,Homo sapiens,2026-07-15
+MONDO_1060198,ischemic stroke,Human_Genetics,gwas_credible_sets,JMJD1C,ENSG00000171988,jumonji domain containing 1C,0.20628123577573598,0.3393169692770188,True,Homo sapiens,2026-07-15
+MONDO_1060198,ischemic stroke,Human_Genetics,gwas_credible_sets,HOXC5,ENSG00000172789,homeobox C5,0.1984168442592042,0.32638064239996534,True,Homo sapiens,2026-07-15
+MONDO_1060198,ischemic stroke,Human_Genetics,gwas_credible_sets,CDKN2C,ENSG00000123080,cyclin dependent kinase inhibitor 2C,0.19811452271040295,0.3258833464084002,True,Homo sapiens,2026-07-15
+MONDO_1060198,ischemic stroke,Human_Genetics,gwas_credible_sets,KAZN,ENSG00000189337,"kazrin, periplakin interacting protein",0.1968348108381711,0.3237783175510706,True,Homo sapiens,2026-07-15
+MONDO_1060198,ischemic stroke,Human_Genetics,gwas_credible_sets,DIP2B,ENSG00000066084,DIP2 acetate--CoA ligase B (putative),0.1925619746492809,0.3167498264700514,True,Homo sapiens,2026-07-15
+MONDO_1060198,ischemic stroke,Human_Genetics,gwas_credible_sets,FUNDC2,ENSG00000165775,FUN14 domain containing 2,0.18694309824485947,0.3075072014434919,True,Homo sapiens,2026-07-15
+MONDO_1060198,ischemic stroke,Human_Genetics,gwas_credible_sets,HP,ENSG00000257017,haptoglobin,0.1865925767142821,0.06289302749561082,True,Homo sapiens,2026-07-15
+MONDO_1060198,ischemic stroke,Human_Genetics,gwas_credible_sets,KIRREL3,ENSG00000149571,kirre like nephrin family adhesion molecule 3,0.18584214907799937,0.30569622366249216,True,Homo sapiens,2026-07-15
+MONDO_1060198,ischemic stroke,Human_Genetics,gwas_credible_sets,PLEC,ENSG00000178209,plectin,0.18361568877058976,0.3020338655188404,True,Homo sapiens,2026-07-15
+MONDO_1060198,ischemic stroke,Human_Genetics,gwas_credible_sets,SHANK3,ENSG00000251322,SH3 and multiple ankyrin repeat domains 3,0.18244792927300038,0.2955535088348195,True,Homo sapiens,2026-07-15
+MONDO_1060198,ischemic stroke,Human_Genetics,gwas_credible_sets,SEPTIN2,ENSG00000168385,septin 2,0.18074903108258691,0.29731843129628566,True,Homo sapiens,2026-07-15
+MONDO_1060198,ischemic stroke,Human_Genetics,gwas_credible_sets,MAPKAPK5,ENSG00000089022,MAPK activated protein kinase 5,0.17989577474760352,0.08330481398551824,True,Homo sapiens,2026-07-15
+MONDO_1060198,ischemic stroke,Human_Genetics,gwas_credible_sets,PLRG1,ENSG00000171566,pleiotropic regulator 1,0.17409005972863004,0.286364929055376,True,Homo sapiens,2026-07-15
+MONDO_1060198,ischemic stroke,Human_Genetics,gwas_credible_sets,BARHL1,ENSG00000125492,BarH like homeobox 1,0.16908921297283025,0.278138915871891,True,Homo sapiens,2026-07-15
+MONDO_1060198,ischemic stroke,Human_Genetics,gwas_credible_sets,ARMS2,ENSG00000254636,age-related maculopathy susceptibility 2,0.16906988181838967,0.2750674636026526,True,Homo sapiens,2026-07-15
+MONDO_1060198,ischemic stroke,Human_Genetics,gwas_credible_sets,CDKN2A,ENSG00000147889,cyclin dependent kinase inhibitor 2A,0.16835923401433692,0.19501028519171354,True,Homo sapiens,2026-07-15
+MONDO_1060198,ischemic stroke,Human_Genetics,gwas_credible_sets,IL1R2,ENSG00000115590,interleukin 1 receptor type 2,0.1675382703543601,0.06793641563347153,True,Homo sapiens,2026-07-15
+MONDO_1060198,ischemic stroke,Human_Genetics,gwas_credible_sets,TCF7L2,ENSG00000148737,transcription factor 7 like 2,0.16701387827859776,0.058005270826984465,True,Homo sapiens,2026-07-15
+MONDO_1060198,ischemic stroke,Human_Genetics,gwas_credible_sets,F8,ENSG00000185010,coagulation factor VIII,0.16478851782262705,0.13577974226939638,True,Homo sapiens,2026-07-15
+MONDO_1060198,ischemic stroke,Human_Genetics,gwas_credible_sets,TAB1,ENSG00000100324,TGF-beta activated kinase 1 (MAP3K7) binding protein 1,0.1634368268219051,0.2688411698568319,True,Homo sapiens,2026-07-15
+MONDO_1060198,ischemic stroke,Human_Genetics,gwas_credible_sets,UQCC1,ENSG00000101019,ubiquinol-cytochrome c reductase complex assembly factor 1,0.16041450349526892,0.26386967747890006,True,Homo sapiens,2026-07-15
+MONDO_1060198,ischemic stroke,Human_Genetics,gwas_credible_sets,FOXQ1,ENSG00000164379,forkhead box Q1,0.15970459007041035,0.25320300508825444,True,Homo sapiens,2026-07-15
+MONDO_1060198,ischemic stroke,Human_Genetics,gwas_credible_sets,F7,ENSG00000057593,coagulation factor VII,0.1454378953586832,0.08102612737880652,True,Homo sapiens,2026-07-15
+MONDO_1060198,ischemic stroke,Human_Genetics,gwas_credible_sets,SPPL2A,ENSG00000138600,signal peptide peptidase like 2A,0.14261952978670359,0.2345982969558595,True,Homo sapiens,2026-07-15
+MONDO_1060198,ischemic stroke,Human_Genetics,gwas_credible_sets,CD209,ENSG00000090659,CD209 molecule,0.140188594903348,0.20020305378058434,True,Homo sapiens,2026-07-15
+MONDO_1060198,ischemic stroke,Human_Genetics,gwas_credible_sets,LOX,ENSG00000113083,lysyl oxidase,0.1397706906802305,0.12509711950959446,True,Homo sapiens,2026-07-15
+MONDO_1060198,ischemic stroke,Human_Genetics,gwas_credible_sets,ADH5,ENSG00000197894,"alcohol dehydrogenase 5 (class III), chi polypeptide",0.13358523714470613,0.20453930162134565,True,Homo sapiens,2026-07-15
+MONDO_1060198,ischemic stroke,Human_Genetics,gwas_credible_sets,PPP2R3A,ENSG00000073711,protein phosphatase 2 regulatory subunit B''alpha,0.1334643239452588,0.2195386785298596,True,Homo sapiens,2026-07-15
+MONDO_1060198,ischemic stroke,Human_Genetics,gwas_credible_sets,MCF2L,ENSG00000126217,MCF.2 cell line derived transforming sequence like,0.13244141136296794,0.21785606500491633,True,Homo sapiens,2026-07-15
+MONDO_1060198,ischemic stroke,Human_Genetics,gwas_credible_sets,HSF5,ENSG00000176160,heat shock transcription factor 5,0.13157530302649886,0.2164313825577171,True,Homo sapiens,2026-07-15
+MONDO_1060198,ischemic stroke,Human_Genetics,gwas_credible_sets,ICA1L,ENSG00000163596,islet cell autoantigen 1 like,0.1310480607108059,0.20796497401340133,True,Homo sapiens,2026-07-15
+MONDO_1060198,ischemic stroke,Human_Genetics,gwas_credible_sets,TRPM7,ENSG00000092439,transient receptor potential cation channel subfamily M member 7,0.12993851469386722,0.17525429655059097,True,Homo sapiens,2026-07-15
+MONDO_1060198,ischemic stroke,Human_Genetics,gwas_credible_sets,JPH3,ENSG00000154118,junctophilin 3,0.12558619865670687,0.20657976064068084,True,Homo sapiens,2026-07-15
+MONDO_1060198,ischemic stroke,Human_Genetics,gwas_credible_sets,MMUT,ENSG00000146085,methylmalonyl-CoA mutase,0.12407911464216208,0.18864914743502312,True,Homo sapiens,2026-07-15
+MONDO_1060198,ischemic stroke,Human_Genetics,gwas_credible_sets,LEPR,ENSG00000116678,leptin receptor,0.12383737532996636,0.16817712307634322,True,Homo sapiens,2026-07-15
+MONDO_1060198,ischemic stroke,Human_Genetics,gwas_credible_sets,FERD3L,ENSG00000146618,Fer3 like bHLH transcription factor,0.12282030206650776,0.19291110880873624,True,Homo sapiens,2026-07-15
+MONDO_1060198,ischemic stroke,Human_Genetics,gwas_credible_sets,ATF1,ENSG00000123268,activating transcription factor 1,0.1156606599240294,0.19025300310236898,True,Homo sapiens,2026-07-15
+MONDO_1060198,ischemic stroke,Human_Genetics,gwas_credible_sets,NAA25,ENSG00000111300,"N-alpha-acetyltransferase 25, NatB auxiliary subunit",0.11512786212311853,0.1669591430149317,True,Homo sapiens,2026-07-15
+MONDO_1060198,ischemic stroke,Human_Genetics,gwas_credible_sets,NBEAL1,ENSG00000144426,neurobeachin like 1,0.11418351521747888,0.17262494228398217,True,Homo sapiens,2026-07-15
+MONDO_1060198,ischemic stroke,Human_Genetics,gwas_credible_sets,VPS13C,ENSG00000129003,vacuolar protein sorting 13 homolog C,0.11380314689584577,0.1871975352177327,True,Homo sapiens,2026-07-15
+MONDO_1060198,ischemic stroke,Human_Genetics,gwas_credible_sets,TMEM51,ENSG00000171729,transmembrane protein 51,0.11192530139975602,0.1841086219672982,True,Homo sapiens,2026-07-15
+MONDO_1060198,ischemic stroke,Human_Genetics,gwas_credible_sets,GIMAP6,ENSG00000133561,"GTPase, IMAP family member 6",0.10942191860692085,0.1799907473627047,True,Homo sapiens,2026-07-15
+MONDO_1060198,ischemic stroke,Human_Genetics,gwas_credible_sets,SPX,ENSG00000134548,spexin hormone,0.10898863657956938,0.1792780313281598,True,Homo sapiens,2026-07-15
+MONDO_1060198,ischemic stroke,Human_Genetics,gwas_credible_sets,PCCB,ENSG00000114054,propionyl-CoA carboxylase subunit beta,0.10806798111105989,0.17776362299068707,True,Homo sapiens,2026-07-15
+MONDO_1060198,ischemic stroke,Human_Genetics,gwas_credible_sets,ARHGEF16,ENSG00000130762,Rho guanine nucleotide exchange factor 16,0.10702937860432037,0.17605520073141037,True,Homo sapiens,2026-07-15
+MONDO_1060198,ischemic stroke,Human_Genetics,gwas_credible_sets,CPNE1,ENSG00000214078,copine 1,0.10452651899253912,0.1719381867199238,True,Homo sapiens,2026-07-15
+MONDO_1060198,ischemic stroke,Human_Genetics,gwas_credible_sets,TFPI,ENSG00000003436,tissue factor pathway inhibitor,0.10400921714134347,0.04655951385834143,True,Homo sapiens,2026-07-15
+MONDO_1060198,ischemic stroke,Human_Genetics,gwas_credible_sets,SMIM31,ENSG00000248771,small integral membrane protein 31,0.10321288295933712,0.1697773551937651,True,Homo sapiens,2026-07-15
+MONDO_1060198,ischemic stroke,Human_Genetics,gwas_credible_sets,EGR2,ENSG00000122877,early growth response 2,0.10319670587582977,0.036724506360774595,True,Homo sapiens,2026-07-15
+MONDO_1060198,ischemic stroke,Human_Genetics,gwas_credible_sets,CARF,ENSG00000138380,calcium responsive transcription factor,0.10099113128141282,0.16612274238807587,True,Homo sapiens,2026-07-15
+MONDO_1060198,ischemic stroke,Human_Genetics,gwas_credible_sets,PLSCR1,ENSG00000188313,phospholipid scramblase 1,0.10042236518690385,0.1594878141231734,True,Homo sapiens,2026-07-15
+MONDO_1060198,ischemic stroke,Human_Genetics,gwas_credible_sets,WDR12,ENSG00000138442,WD repeat domain 12,0.0994864215419234,0.15604847415374826,True,Homo sapiens,2026-07-15
+MONDO_1060198,ischemic stroke,Human_Genetics,gwas_credible_sets,FCHO2,ENSG00000157107,FCH and mu domain containing endocytic adaptor 2,0.09581970753854678,0.15761614301330654,True,Homo sapiens,2026-07-15
+MONDO_1060198,ischemic stroke,Human_Genetics,gwas_credible_sets,RPL6,ENSG00000089009,ribosomal protein L6,0.09540464291490178,0.15693339322455482,True,Homo sapiens,2026-07-15
+MONDO_1060198,ischemic stroke,Human_Genetics,gwas_credible_sets,GDF5,ENSG00000125965,growth differentiation factor 5,0.0947239692274479,0.15277408270629944,True,Homo sapiens,2026-07-15
+MONDO_1060198,ischemic stroke,Human_Genetics,gwas_credible_sets,LAMC2,ENSG00000058085,laminin subunit gamma 2,0.09378637855343802,0.12387493134919829,True,Homo sapiens,2026-07-15
+MONDO_1060198,ischemic stroke,Human_Genetics,gwas_credible_sets,PHETA1,ENSG00000198324,PH domain containing endocytic trafficking adaptor 1,0.09044237163983865,0.14877083377772565,True,Homo sapiens,2026-07-15
+MONDO_1060198,ischemic stroke,Human_Genetics,gwas_credible_sets,HPR,ENSG00000261701,haptoglobin-related protein,0.08835078513869424,0.1453303328039937,True,Homo sapiens,2026-07-15
+MONDO_1060198,ischemic stroke,Human_Genetics,gwas_credible_sets,GIMAP4,ENSG00000133574,"GTPase, IMAP family member 4",0.08807427018377384,0.14487548669978786,True,Homo sapiens,2026-07-15
+MONDO_1060198,ischemic stroke,Human_Genetics,gwas_credible_sets,IRF1,ENSG00000125347,interferon regulatory factor 1,0.0845562211368971,0.066882148312531,True,Homo sapiens,2026-07-15
+MONDO_1060198,ischemic stroke,Human_Genetics,gwas_credible_sets,PSMG1,ENSG00000183527,proteasome assembly chaperone 1,0.08351318326284841,0.13737284505234285,True,Homo sapiens,2026-07-15
+MONDO_1060198,ischemic stroke,Human_Genetics,gwas_credible_sets,C2CD4A,ENSG00000198535,C2 calcium dependent domain containing 4A,0.07780987645066192,0.12799133841607258,True,Homo sapiens,2026-07-15
+MONDO_1060198,ischemic stroke,Human_Genetics,gwas_credible_sets,ANKRD63,ENSG00000230778,ankyrin repeat domain 63,0.07766732888855955,0.12775685850049273,True,Homo sapiens,2026-07-15
+MONDO_1060198,ischemic stroke,Human_Genetics,gwas_credible_sets,GRINA,ENSG00000178719,glutamate ionotropic receptor NMDA type subunit associated protein 1,0.07506423370705348,0.06834830002389135,True,Homo sapiens,2026-07-15
+MONDO_1060198,ischemic stroke,Human_Genetics,gwas_credible_sets,TMEM171,ENSG00000157111,transmembrane protein 171,0.07297885701854981,0.12004467828453828,True,Homo sapiens,2026-07-15
+MONDO_1060198,ischemic stroke,Human_Genetics,gwas_credible_sets,CASP7,ENSG00000165806,caspase 7,0.07123715730809671,0.03202190176966939,True,Homo sapiens,2026-07-15
+MONDO_1060198,ischemic stroke,Human_Genetics,gwas_credible_sets,DMRTA1,ENSG00000176399,DMRT like family A1,0.0708056516189767,0.11646992042046728,True,Homo sapiens,2026-07-15
+MONDO_1060198,ischemic stroke,Human_Genetics,gwas_credible_sets,RGS12,ENSG00000159788,regulator of G protein signaling 12,0.06916532836085922,0.11377171321569689,True,Homo sapiens,2026-07-15
+MONDO_1060198,ischemic stroke,Human_Genetics,gwas_credible_sets,MSL2,ENSG00000174579,MSL complex subunit 2,0.06707355137823617,0.11033089891439644,True,Homo sapiens,2026-07-15
+MONDO_1060198,ischemic stroke,Human_Genetics,gwas_credible_sets,HOXC6,ENSG00000197757,homeobox C6,0.06571905765830735,0.108102859596023,True,Homo sapiens,2026-07-15
+MONDO_1060198,ischemic stroke,Human_Genetics,gwas_credible_sets,PARP10,ENSG00000178685,poly(ADP-ribose) polymerase family member 10,0.06517128709485072,0.10720181861305479,True,Homo sapiens,2026-07-15
+MONDO_1060198,ischemic stroke,Human_Genetics,gwas_credible_sets,PKD1L3,ENSG00000277481,"polycystin 1 like 3, transient receptor potential channel interacting",0.06461945224068047,0.10629409218047686,True,Homo sapiens,2026-07-15
+MONDO_1060198,ischemic stroke,Human_Genetics,gwas_credible_sets,CIB4,ENSG00000157884,calcium and integrin binding family member 4,0.06346883391671168,0.10440141240756648,True,Homo sapiens,2026-07-15
+MONDO_1060198,ischemic stroke,Human_Genetics,gwas_credible_sets,NT5DC3,ENSG00000111696,5'-nucleotidase domain containing 3,0.05819691879612129,0.09572951234706259,True,Homo sapiens,2026-07-15
+MONDO_1060198,ischemic stroke,Human_Genetics,gwas_credible_sets,ROMO1,ENSG00000125995,reactive oxygen species modulator 1,0.05741339321222156,0.09444067225707543,True,Homo sapiens,2026-07-15
+MONDO_1060198,ischemic stroke,Human_Genetics,gwas_credible_sets,SEPTIN4,ENSG00000108387,septin 4,0.0565522929575515,0.09302422772415644,True,Homo sapiens,2026-07-15
+MONDO_1060198,ischemic stroke,Human_Genetics,gwas_credible_sets,APOBR,ENSG00000184730,apolipoprotein B receptor,0.056502700212412535,0.09294265142413381,True,Homo sapiens,2026-07-15
+MONDO_1060198,ischemic stroke,Human_Genetics,gwas_credible_sets,MS4A4A,ENSG00000110079,membrane spanning 4-domains A4A,0.05614302149859446,0.09235100725142345,True,Homo sapiens,2026-07-15
+MONDO_1060198,ischemic stroke,Human_Genetics,gwas_credible_sets,CAPN3,ENSG00000092529,calpain 3,0.0554507483280445,0.09121227045231788,True,Homo sapiens,2026-07-15
+MONDO_1060198,ischemic stroke,Human_Genetics,gwas_credible_sets,MYH11,ENSG00000133392,myosin heavy chain 11,0.05502890938401427,0.04155888360958353,True,Homo sapiens,2026-07-15
+MONDO_1060198,ischemic stroke,Human_Genetics,gwas_credible_sets,GANC,ENSG00000214013,"glucosidase alpha, neutral C",0.05242029091281208,0.08622739811629182,True,Homo sapiens,2026-07-15
+MONDO_1060198,ischemic stroke,Human_Genetics,gwas_credible_sets,IL1RL2,ENSG00000115598,interleukin 1 receptor like 2,0.052350625225105585,0.08611280334994639,True,Homo sapiens,2026-07-15
+MONDO_1060198,ischemic stroke,Human_Genetics,gwas_credible_sets,MGAT3,ENSG00000128268,"beta-1,4-mannosyl-glycoprotein 4-beta-N-acetylglucosaminyltransferase",0.05097452688123427,0.08384922606569366,True,Homo sapiens,2026-07-15
+MONDO_1060198,ischemic stroke,Human_Genetics,gwas_credible_sets,NRBF2,ENSG00000148572,nuclear receptor binding factor 2,0.04983318813701137,0.08197181049683798,True,Homo sapiens,2026-07-15
+MONDO_1060198,ischemic stroke,Human_Genetics,gwas_credible_sets,ATXN2L,ENSG00000168488,ataxin 2 like,0.04979057917054614,0.08190172198243367,True,Homo sapiens,2026-07-15
+MONDO_1060198,ischemic stroke,Human_Genetics,gwas_credible_sets,ZSWIM2,ENSG00000163012,zinc finger SWIM-type containing 2,0.048572233682354866,0.07989763616711096,True,Homo sapiens,2026-07-15
+MONDO_1060198,ischemic stroke,Human_Genetics,gwas_credible_sets,STN1,ENSG00000107960,STN1 subunit of CST complex,0.04833378229078414,0.07950540173433089,True,Homo sapiens,2026-07-15
+MONDO_1060198,ischemic stroke,Human_Genetics,gwas_credible_sets,CCDC71L,ENSG00000253276,coiled-coil domain containing 71 like,0.04653179452904406,0.07654126869678854,True,Homo sapiens,2026-07-15
+MONDO_1060198,ischemic stroke,Human_Genetics,gwas_credible_sets,BRCC3,ENSG00000185515,BRCA1/BRCA2-containing complex subunit 3,0.04634416535502948,0.038454198858104985,True,Homo sapiens,2026-07-15
+MONDO_1060198,ischemic stroke,Human_Genetics,gwas_credible_sets,TRPC4AP,ENSG00000100991,transient receptor potential cation channel subfamily C member 4 associated protein,0.04595667088981496,0.0755952339811785,True,Homo sapiens,2026-07-15
+MONDO_1060198,ischemic stroke,Human_Genetics,gwas_credible_sets,SNCAIP,ENSG00000064692,synuclein alpha interacting protein,0.04566073077307933,0.07510843496079939,True,Homo sapiens,2026-07-15
+MONDO_1060198,ischemic stroke,Human_Genetics,gwas_credible_sets,CLEC4G,ENSG00000182566,C-type lectin domain family 4 member G,0.04560985864374469,0.07502475417092247,True,Homo sapiens,2026-07-15
+MONDO_1060198,ischemic stroke,Human_Genetics,gwas_credible_sets,CHD9NB,ENSG00000277639,CHD9 neighbor,0.044629508216982666,0.07341215215994765,True,Homo sapiens,2026-07-15
+MONDO_1060198,ischemic stroke,Human_Genetics,gwas_credible_sets,PBK,ENSG00000168078,PDZ binding kinase,0.043794292179740346,0.03282220580003264,True,Homo sapiens,2026-07-15
+MONDO_1060198,ischemic stroke,Human_Genetics,gwas_credible_sets,CATSPERB,ENSG00000133962,catsper channel auxiliary subunit beta,0.041690359663582144,0.06857747596826998,True,Homo sapiens,2026-07-15
+MONDO_1060198,ischemic stroke,Human_Genetics,gwas_credible_sets,NFS1,ENSG00000244005,NFS1 cysteine desulfurase,0.04129379117829356,0.0679251509226454,True,Homo sapiens,2026-07-15
+MONDO_1060198,ischemic stroke,Human_Genetics,gwas_credible_sets,CALHM2,ENSG00000138172,calcium homeostasis modulator family member 2,0.040682937026666074,0.06692034222726864,True,Homo sapiens,2026-07-15
+MONDO_1060198,ischemic stroke,Human_Genetics,gwas_credible_sets,SH2B2,ENSG00000160999,SH2B adaptor protein 2,0.04058570967916166,0.06676041062339796,True,Homo sapiens,2026-07-15
+MONDO_1060198,ischemic stroke,Human_Genetics,gwas_credible_sets,FAM133B,ENSG00000234545,family with sequence similarity 133 member B,0.03973322607877048,0.06535813983247844,True,Homo sapiens,2026-07-15
+MONDO_1060198,ischemic stroke,Human_Genetics,gwas_credible_sets,DDX31,ENSG00000125485,DEAD-box helicase 31,0.0394412428629532,0.06487784961365026,True,Homo sapiens,2026-07-15
+MONDO_1060198,ischemic stroke,Human_Genetics,gwas_credible_sets,ATP2A1,ENSG00000196296,ATPase sarcoplasmic/endoplasmic reticulum Ca2+ transporting 1,0.039439243760610324,0.06487456124209426,True,Homo sapiens,2026-07-15
+MONDO_1060198,ischemic stroke,Human_Genetics,gwas_credible_sets,SAMD5,ENSG00000203727,sterile alpha motif domain containing 5,0.03938792918378936,0.06479015265969876,True,Homo sapiens,2026-07-15
+MONDO_1060198,ischemic stroke,Human_Genetics,gwas_credible_sets,SLC25A44,ENSG00000160785,solute carrier family 25 member 44,0.03917068716664282,0.05987332505526574,True,Homo sapiens,2026-07-15
+MONDO_1060198,ischemic stroke,Human_Genetics,gwas_credible_sets,VPS39,ENSG00000166887,VPS39 subunit of HOPS complex,0.0385637470778078,0.06343443567806281,True,Homo sapiens,2026-07-15
+MONDO_1060198,ischemic stroke,Human_Genetics,gwas_credible_sets,RNF43,ENSG00000108375,ring finger protein 43,0.03846756161783643,0.06327621790007024,True,Homo sapiens,2026-07-15
+MONDO_1060198,ischemic stroke,Human_Genetics,gwas_credible_sets,TNKS,ENSG00000173273,tankyrase,0.03818148687841201,0.052166857718055994,True,Homo sapiens,2026-07-15
+MONDO_1060198,ischemic stroke,Human_Genetics,gwas_credible_sets,RORA,ENSG00000069667,RAR related orphan receptor A,0.03762222659815098,0.05428657101145247,True,Homo sapiens,2026-07-15
+MONDO_1060198,ischemic stroke,Human_Genetics,gwas_credible_sets,SLK,ENSG00000065613,STE20 like kinase,0.037045333543770056,0.06093676071242012,True,Homo sapiens,2026-07-15
+MONDO_1060198,ischemic stroke,Human_Genetics,gwas_credible_sets,PRDM8,ENSG00000152784,PR/SET domain 8,0.03624669797091154,0.05962306583794408,True,Homo sapiens,2026-07-15
+MONDO_1060198,ischemic stroke,Human_Genetics,gwas_credible_sets,SUPT4H1,ENSG00000213246,"SPT4 homolog, DSIF elongation factor subunit",0.03590629021817701,0.05906312093291231,True,Homo sapiens,2026-07-15
+MONDO_1060198,ischemic stroke,Human_Genetics,gwas_credible_sets,ENSG00000292259,ENSG00000292259,novel protein,0.03552722351593437,0.05843958499143363,True,Homo sapiens,2026-07-15
+MONDO_1060198,ischemic stroke,Human_Genetics,gwas_credible_sets,ZNF474,ENSG00000164185,zinc finger protein 474,0.03533226078458636,0.05811888610249107,True,Homo sapiens,2026-07-15
+MONDO_1060198,ischemic stroke,Human_Genetics,gwas_credible_sets,CFAP299,ENSG00000197826,cilia and flagella associated protein 299,0.03400672720118051,0.055938484009664925,True,Homo sapiens,2026-07-15
+MONDO_1060198,ischemic stroke,Human_Genetics,gwas_credible_sets,RNF227,ENSG00000179859,ring finger protein 227,0.033745183485155775,0.05550826445662984,True,Homo sapiens,2026-07-15
+MONDO_1060198,ischemic stroke,Human_Genetics,gwas_credible_sets,NPIPB8,ENSG00000255524,nuclear pore complex interacting protein family member B8,0.03372912733396935,0.055481853307121534,True,Homo sapiens,2026-07-15
+MONDO_1060198,ischemic stroke,Human_Genetics,gwas_credible_sets,NEURL1,ENSG00000107954,neuralized E3 ubiquitin protein ligase 1,0.03371760523501128,0.04786376535909896,True,Homo sapiens,2026-07-15
+MONDO_1060198,ischemic stroke,Human_Genetics,gwas_credible_sets,SH2B1,ENSG00000178188,SH2B adaptor protein 1,0.0325854287678348,0.053600556010409806,True,Homo sapiens,2026-07-15
+MONDO_1060198,ischemic stroke,Human_Genetics,gwas_credible_sets,MTMR4,ENSG00000108389,myotubularin related protein 4,0.0325036307868463,0.05346600454285814,True,Homo sapiens,2026-07-15
+MONDO_1060198,ischemic stroke,Human_Genetics,gwas_credible_sets,HOXC4,ENSG00000198353,homeobox C4,0.03235096104814279,0.05321487441537767,True,Homo sapiens,2026-07-15
+MONDO_1060198,ischemic stroke,Human_Genetics,gwas_credible_sets,TBC1D32,ENSG00000146350,TBC1 domain family member 32,0.03133085987562065,0.051536885446024874,True,Homo sapiens,2026-07-15
+MONDO_1060198,ischemic stroke,Human_Genetics,gwas_credible_sets,LRRC57,ENSG00000180979,leucine rich repeat containing 57,0.030250515781531595,0.049759801445126414,True,Homo sapiens,2026-07-15
+MONDO_1060198,ischemic stroke,Human_Genetics,gwas_credible_sets,LYSMD1,ENSG00000163155,LysM domain containing 1,0.029553809339945773,0.04861377225179886,True,Homo sapiens,2026-07-15
+MONDO_1060198,ischemic stroke,Human_Genetics,gwas_credible_sets,ERGIC3,ENSG00000125991,ERGIC and golgi 3,0.02881821127096207,0.04740376928456369,True,Homo sapiens,2026-07-15
+MONDO_1060198,ischemic stroke,Human_Genetics,gwas_credible_sets,TUFM,ENSG00000178952,"Tu translation elongation factor, mitochondrial",0.02850467161893094,0.04688802036501079,True,Homo sapiens,2026-07-15
+MONDO_1060198,ischemic stroke,Human_Genetics,gwas_credible_sets,TSHB,ENSG00000134200,thyroid stimulating hormone subunit beta,0.0282010916820158,0.04638865442055162,True,Homo sapiens,2026-07-15
+MONDO_1060198,ischemic stroke,Human_Genetics,gwas_credible_sets,PRPS1L1,ENSG00000229937,phosphoribosyl pyrophosphate synthetase 1 like 1,0.02809995803070813,0.04622229724354234,True,Homo sapiens,2026-07-15
+MONDO_1060198,ischemic stroke,Human_Genetics,gwas_credible_sets,CEP20,ENSG00000133393,centrosomal protein 20,0.02793563787600912,0.045952003066401494,True,Homo sapiens,2026-07-15
+MONDO_1060198,ischemic stroke,Human_Genetics,gwas_credible_sets,PSD4,ENSG00000125637,pleckstrin and Sec7 domain containing 4,0.027877173770025552,0.045855834051419436,True,Homo sapiens,2026-07-15
+MONDO_1060198,ischemic stroke,Human_Genetics,gwas_credible_sets,RBM39,ENSG00000131051,RNA binding motif protein 39,0.027824536248831983,0.04576924932598627,True,Homo sapiens,2026-07-15
+MONDO_1060198,ischemic stroke,Human_Genetics,gwas_credible_sets,CHD3,ENSG00000170004,chromodomain helicase DNA binding protein 3,0.02775218030907453,0.0456502292992962,True,Homo sapiens,2026-07-15
+MONDO_1060198,ischemic stroke,Human_Genetics,gwas_credible_sets,CMC4,ENSG00000182712,C-X9-C motif containing 4,0.027585310335133777,0.045375740863118366,True,Homo sapiens,2026-07-15
+MONDO_1060198,ischemic stroke,Human_Genetics,gwas_credible_sets,TRIM61,ENSG00000183439,tripartite motif containing 61,0.027505398559523886,0.04524429206018909,True,Homo sapiens,2026-07-15
+MONDO_1060198,ischemic stroke,Human_Genetics,gwas_credible_sets,SCNM1,ENSG00000163156,sodium channel modifier 1,0.027315982235743573,0.04493271659053946,True,Homo sapiens,2026-07-15
+MONDO_1060198,ischemic stroke,Human_Genetics,gwas_credible_sets,OR2B11,ENSG00000177535,olfactory receptor family 2 subfamily B member 11,0.027108158199618683,0.0445908618318377,True,Homo sapiens,2026-07-15
+MONDO_1060198,ischemic stroke,Human_Genetics,gwas_credible_sets,CALHM3,ENSG00000183128,calcium homeostasis modulator 3,0.026643710414564294,0.04382688049238415,True,Homo sapiens,2026-07-15
+MONDO_1060198,ischemic stroke,Human_Genetics,gwas_credible_sets,SULT1A1,ENSG00000196502,sulfotransferase family 1A member 1,0.02558114139678225,0.042079035142294045,True,Homo sapiens,2026-07-15
+MONDO_1060198,ischemic stroke,Human_Genetics,gwas_credible_sets,RBM12,ENSG00000244462,RNA binding motif protein 12,0.025498649512501182,0.04194334225651633,True,Homo sapiens,2026-07-15
+MONDO_1060198,ischemic stroke,Human_Genetics,gwas_credible_sets,COG5,ENSG00000164597,component of oligomeric golgi complex 5,0.025429157300617834,0.041829032844727415,True,Homo sapiens,2026-07-15
+MONDO_1060198,ischemic stroke,Human_Genetics,gwas_credible_sets,KCNAB3,ENSG00000170049,potassium voltage-gated channel subfamily A regulatory beta subunit 3,0.02486006573242163,0.04089292042793262,True,Homo sapiens,2026-07-15
+MONDO_1060198,ischemic stroke,Human_Genetics,gwas_credible_sets,IL36B,ENSG00000136696,interleukin 36 beta,0.02449984731604266,0.040300388485490876,True,Homo sapiens,2026-07-15
+MONDO_1060198,ischemic stroke,Human_Genetics,gwas_credible_sets,FHAD1,ENSG00000142621,forkhead associated phosphopeptide binding domain 1,0.023776513712396686,0.03911055963245738,True,Homo sapiens,2026-07-15
+MONDO_1060198,ischemic stroke,Human_Genetics,gwas_credible_sets,SLC22A5,ENSG00000197375,solute carrier family 22 member 5,0.02368932696655279,0.038967144055904214,True,Homo sapiens,2026-07-15
+MONDO_1060198,ischemic stroke,Human_Genetics,gwas_credible_sets,ENSG00000288645,ENSG00000288645,novel protein,0.02350841646527545,0.0386695600183985,True,Homo sapiens,2026-07-15
+MONDO_1060198,ischemic stroke,Human_Genetics,gwas_credible_sets,ADO,ENSG00000181915,2-aminoethanethiol dioxygenase,0.023451890332058994,0.03477701133638942,True,Homo sapiens,2026-07-15
+MONDO_1060198,ischemic stroke,Human_Genetics,gwas_credible_sets,GLYATL3,ENSG00000203972,glycine-N-acyltransferase like 3,0.023407720633902382,0.03850392302193661,True,Homo sapiens,2026-07-15
+MONDO_1060198,ischemic stroke,Human_Genetics,gwas_credible_sets,RBL2,ENSG00000103479,RB transcriptional corepressor like 2,0.02334386500947892,0.03839888536851564,True,Homo sapiens,2026-07-15
+MONDO_1060198,ischemic stroke,Human_Genetics,gwas_credible_sets,DHX38,ENSG00000140829,DEAH-box helicase 38,0.02192675340135684,0.036067844378834764,True,Homo sapiens,2026-07-15
+MONDO_1060198,ischemic stroke,Human_Genetics,gwas_credible_sets,SBF2,ENSG00000133812,SET binding factor 2,0.021919624371101027,0.03605611766539333,True,Homo sapiens,2026-07-15
+MONDO_1060198,ischemic stroke,Human_Genetics,gwas_credible_sets,HINT1,ENSG00000169567,histidine triad nucleotide binding protein 1,0.021819249332321544,0.03589100834838911,True,Homo sapiens,2026-07-15
+MONDO_1060198,ischemic stroke,Human_Genetics,gwas_credible_sets,GTF3C4,ENSG00000125484,general transcription factor IIIC subunit 4,0.021279954301938464,0.03500390897375336,True,Homo sapiens,2026-07-15
+MONDO_1060198,ischemic stroke,Human_Genetics,gwas_credible_sets,ST3GAL4,ENSG00000110080,"ST3 beta-galactoside alpha-2,3-sialyltransferase 4",0.020836766254368658,0.034274898288144146,True,Homo sapiens,2026-07-15
+MONDO_1060198,ischemic stroke,Human_Genetics,gwas_credible_sets,TRIM60,ENSG00000176979,tripartite motif containing 60,0.020753565322080295,0.03413803907223465,True,Homo sapiens,2026-07-15
+MONDO_1060198,ischemic stroke,Human_Genetics,gwas_credible_sets,MTCP1,ENSG00000214827,mature T cell proliferation 1,0.02061865069619621,0.03391611475714135,True,Homo sapiens,2026-07-15
+MONDO_1060198,ischemic stroke,Human_Genetics,gwas_credible_sets,SLC35F6,ENSG00000213699,solute carrier family 35 member F6,0.02053189626311792,0.033773410302260755,True,Homo sapiens,2026-07-15
+MONDO_1060198,ischemic stroke,Human_Genetics,gwas_credible_sets,GOLT1B,ENSG00000111711,golgi transport 1B,0.019641919856251973,0.032309466691635334,True,Homo sapiens,2026-07-15
+MONDO_1060198,ischemic stroke,Human_Genetics,gwas_credible_sets,TMPRSS12,ENSG00000186452,transmembrane serine protease 12,0.018826946960634774,0.030968898161764853,True,Homo sapiens,2026-07-15
+MONDO_1060198,ischemic stroke,Human_Genetics,gwas_credible_sets,RAD51B,ENSG00000182185,RAD51 paralog B,0.018603326987058168,0.030601060285389545,True,Homo sapiens,2026-07-15
+MONDO_1060198,ischemic stroke,Human_Genetics,gwas_credible_sets,TDRD10,ENSG00000163239,tudor domain containing 10,0.018588507195309696,0.030576682853276065,True,Homo sapiens,2026-07-15
+MONDO_1060198,ischemic stroke,Human_Genetics,gwas_credible_sets,SLCO1C1,ENSG00000139155,solute carrier organic anion transporter family member 1C1,0.018588211184976555,0.030576195938755032,True,Homo sapiens,2026-07-15

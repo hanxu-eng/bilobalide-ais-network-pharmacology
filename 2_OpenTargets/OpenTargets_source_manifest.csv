@@ -1,0 +1,2 @@
+source,entity,query_or_filter,scope,raw_input,processed_outputs,notes
+Open Targets,MONDO_1060198 (ischemic stroke),direct disease associations; enableIndirect=false; protein-coding only,Human genetics (GWAS credible sets + EVA),OpenTargets_MONDO_1060198_direct_genetic_raw.json,OpenTargets_AIS_genetic_evidence_master.csv; source-specific CSV/TXT files,Raw evidence retained; source scores are not summed across databases

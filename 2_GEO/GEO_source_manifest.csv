@@ -1,0 +1,5 @@
+series,phenotype_and_contrast,samples_used,platform,primary_use,exclusion_or_caveat,processed_outputs
+GSE16561,AIS vs control,39 AIS + 24 controls,GPL6883,Acute AIS blood expression; age/sex-adjusted limma,Onset is within 24 h rather than uniformly <3 h; treatment metadata are incomplete,GSE16561_AIS_vs_Control_age_sex_adjusted_limma_all.csv and DEG files
+GSE58294,Cardioembolic AIS <3 h vs vascular-risk-factor control,23 AIS + 23 controls,GPL570,Early acute AIS expression; limma,5 h and 24 h samples repeat the same patients and are excluded from primary contrast; controls are not healthy controls,GSE58294_AIS_lt3h_vs_Control_limma_all.csv and DEG files
+GSE37587,Not used in primary set,Not processed,Not applicable,Excluded,Overlaps with GSE16561 subjects / non-independent evidence,Raw download not included
+GSE22255,Not used in primary set,Not processed,Not applicable,Excluded,Chronic post-stroke sampling (>=6 months),Raw download not included

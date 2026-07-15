@@ -1,0 +1,9 @@
+Disease_ID,Disease_Name,Evidence_Class,Source_Database,Gene_Symbol,Ensembl_ID,Target_Name,Overall_Association_Score,Source_Score,Direct_Association,Species,Retrieval_Date
+MONDO_1060198,ischemic stroke,Human_Genetics,eva,F2,ENSG00000180210,"coagulation factor II, thrombin",0.6762052247063238,0.8057232926897098,True,Homo sapiens,2026-07-15
+MONDO_1060198,ischemic stroke,Human_Genetics,eva,F5,ENSG00000198734,coagulation factor V,0.6713915526669039,0.8612888776065781,True,Homo sapiens,2026-07-15
+MONDO_1060198,ischemic stroke,Human_Genetics,eva,NOTCH3,ENSG00000074181,notch receptor 3,0.5146536950316635,0.6960807632653061,True,Homo sapiens,2026-07-15
+MONDO_1060198,ischemic stroke,Human_Genetics,eva,PRKCH,ENSG00000027075,protein kinase C eta,0.4311023502514833,0.19453785523571876,True,Homo sapiens,2026-07-15
+MONDO_1060198,ischemic stroke,Human_Genetics,eva,NOS3,ENSG00000164867,nitric oxide synthase 3,0.39238492026469834,0.03343619386863916,True,Homo sapiens,2026-07-15
+MONDO_1060198,ischemic stroke,Human_Genetics,eva,FBN1,ENSG00000166147,fibrillin 1,0.3381655670365021,0.547137717850459,True,Homo sapiens,2026-07-15
+MONDO_1060198,ischemic stroke,Human_Genetics,eva,MT-CYB,ENSG00000198727,mitochondrially encoded cytochrome b,0.11272185567883404,0.18237923928348632,True,Homo sapiens,2026-07-15
+MONDO_1060198,ischemic stroke,Human_Genetics,eva,MT-CO2,ENSG00000198712,mitochondrially encoded cytochrome c oxidase II,0.11087395640541053,0.18237923928348632,True,Homo sapiens,2026-07-15
